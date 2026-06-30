@@ -29,7 +29,7 @@
 
 | Field | Value |
 |---|---|
-| **Repo Name** | `ds-analytics-genai-journey` |
+| **Repo Name** | `zero-to-genai` |
 | **Short Description** | 🧠 My hands-on journey through Data Science, Analytics & GenAI — Python exercises, projects & more. |
 | **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `numpy` `pandas` `oop` `learning-in-public` |
 
@@ -38,7 +38,7 @@
 ## 🗂️ Repository Structure
 
 ```
-📦 ds-analytics-genai-journey
+📦 zero-to-genai
 │
 └── 🐍 Python Powerhouse/                    ← Python Fundamentals & Core Concepts
     ├── 🔁 Loops in Python/
@@ -153,7 +153,7 @@ python main.py
 git clone https://github.com/sujalpanchal-25/zero-to-genai.git
 
 # 2. Navigate into the folder
-cd ds-analytics-genai-journey
+cd zero-to-genai
 
 # 3. (Optional) Create a virtual environment
 python -m venv venv
