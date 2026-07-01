@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI+🤖;Python+%7C+ML+%7C+AI+%7C+Deep+Learning;Learning+in+Public+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI+🤖;Python+Powerhouse+✅+Complete!;Now+Moving+to+Data+Science+📊;Learning+in+Public+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -38,14 +38,14 @@
 ## 🗂️ Repository Structure
 
 ```
-📦 ds-analytics-genai-journey
+📦 zero-to-genai
 │
-└── 🐍 Python Powerhouse/                    ← Python Fundamentals & Core Concepts
+└── 🐍 Python Powerhouse/                         ← Python Fundamentals & Core Concepts
     ├── 🔁 Loops in Python/
-    │   ├── Excercise1.py – Excercise19.py
+    │   ├── Excercise1.py – Excercise19.py         ← 19 exercises
     │   └── 📁 Project/
     │       ├── 🎮 Guess_game.py                   ← Number Guessing Game
-    │       └── ✂️  Stone_Paper_Scissor_game.py     ← CLI Game with Colorama
+    │       └── ✂️  Stone_Paper_Scissor_game.py    ← Colorama CLI Game
     │
     ├── 🧩 Data Structures in Python/
     │   └── Exercise1.py – Exercise35.py           ← 35 hands-on exercises
@@ -54,7 +54,14 @@
     │   └── Exercise1.py – Exercise18.py           ← 18 function exercises
     │
     ├── 🏛️  Object Oriented Programming/
-    │   └── Exercise1.py                           ← Classes, Objects & more
+    │   ├── Exercise1.py                           ← OOP exercise
+    │   └── 📁 project/
+    │       ├── 📚 Library Management/
+    │       │   ├── main.py                        ← Full CLI Library System (JSON + OOP)
+    │       │   └── library.json                   ← Persistent data store
+    │       └── 🖥️  Library Management UI/
+    │           ├── app.py                         ← Web UI with NiceGUI (762 lines!)
+    │           └── library.json                   ← Persistent data store
     │
     └── 🛡️  Exception & File Handling/
         └── 📁 Project/
@@ -70,13 +77,17 @@
   <tr>
     <td valign="top" width="50%">
 
-### 🐍 Python Powerhouse
+### 🐍 Python Powerhouse — ✅ 100% Complete!
+
+> 🏆 **All modules finished as per course curriculum!**
+
 - ✅ Loops (`for`, `while`, `break`, `continue`)
 - ✅ Data Structures (Lists, Tuples, Sets, Dicts)
 - ✅ Functions & Lambda Expressions
-- ✅ Object-Oriented Programming (Classes, Inheritance)
+- ✅ Object-Oriented Programming (Classes, Inheritance, JSON)
 - ✅ Exception Handling (`try`, `except`, `finally`)
 - ✅ File & Folder Management (`pathlib`, `os`)
+- ✅ Web UI with NiceGUI (`nicegui`)
 
   </td>
   <td valign="top" width="50%">
@@ -132,14 +143,55 @@ python main.py
 
 ---
 
+### 📚 Library Management System — CLI Edition
+
+> A full-featured Library Management System built using OOP principles and JSON-based persistence.
+
+**Features:**
+- 🏛️ Full OOP design with a `Library` class
+- 📖 Add, list, search, and remove books
+- 👤 Member registration and management
+- 🔄 Borrow & Return system with timestamps
+- 💾 Data persisted to `library.json` — no database needed
+- 🆔 Auto-generated unique Book & Member IDs
+
+```bash
+cd "Python Powerhouse/Object Oriented Programming/project/Library Management"
+python main.py
+```
+
+---
+
+### 🖥️ Library Management System — Web UI Edition
+
+> The same Library system reimagined as a beautiful web application using **NiceGUI** — Python's modern UI framework!
+
+**Features:**
+- 🌐 Full browser-based web UI (no HTML/CSS/JS needed!)
+- 📊 Dashboard with live stats (total books, members, transactions)
+- 🔍 Real-time search/filter for books and members
+- 📚 Borrow & Return system with member-book dropdowns
+- 💾 JSON-based persistent storage
+- 762 lines of pure Python UI code!
+
+```bash
+cd "Python Powerhouse/Object Oriented Programming/project/Library Management UI"
+pip install nicegui
+python app.py
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NiceGUI](https://img.shields.io/badge/NiceGUI-UI%20Framework-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data%20Store-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
@@ -160,7 +212,7 @@ python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
 
 # 4. Install dependencies
-pip install colorama
+pip install colorama nicegui
 
 # 5. Run any exercise or project!
 python "Python Powerhouse/Loops in Python/Project/Stone_Paper_Scisor_game.py"
@@ -172,11 +224,12 @@ python "Python Powerhouse/Loops in Python/Project/Stone_Paper_Scisor_game.py"
 
 | Module | Status | Exercises / Projects |
 |---|---|---|
-| 🔁 Loops in Python | ✅ Complete | 19 exercises + 2 projects |
-| 🧩 Data Structures | ✅ Complete | 35 exercises |
-| ⚡ Functions | ✅ Complete | 18 exercises |
-| 🏛️ OOP | 🔄 In Progress | 1+ exercises |
-| 🛡️ Exception & File Handling | ✅ Complete | 1 full project |
+| 🐍 **Python Powerhouse** | 🏆 **100% Complete** | **90+ exercises & 5 projects** |
+| &nbsp;&nbsp;&nbsp;🔁 Loops in Python | ✅ Complete | 19 exercises + 2 projects |
+| &nbsp;&nbsp;&nbsp;🧩 Data Structures | ✅ Complete | 35 exercises |
+| &nbsp;&nbsp;&nbsp;⚡ Functions | ✅ Complete | 18 exercises |
+| &nbsp;&nbsp;&nbsp;🏛️ OOP | ✅ Complete | 1 exercise + 2 projects (CLI & Web UI) |
+| &nbsp;&nbsp;&nbsp;🛡️ Exception & File Handling | ✅ Complete | 1 full project |
 | 📊 NumPy & Pandas | ⏳ Coming Soon | — |
 | 📉 Data Visualization | ⏳ Coming Soon | — |
 | 🤖 Machine Learning | ⏳ Coming Soon | — |
