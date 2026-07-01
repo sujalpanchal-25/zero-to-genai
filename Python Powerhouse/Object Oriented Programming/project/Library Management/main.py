@@ -69,6 +69,9 @@ class Library:
         p_no = input("Enter the Member Phone Number :- ")
         email = input("Enter the Member Email ID :- ").strip().lower()
         
+        if u_name == "" and p_no == "" and email == "":
+            print("\n Please Fill All The Field....\n")
+            return
         m = {
             "id":Library.get_id("M"),
             "username":u_name,
@@ -251,7 +254,7 @@ class Library:
         print("\nMember Found")
         print("-" * 60)
         print(f"ID        : {member['id']}")
-        print(f"UserName      : {member['username']}")
+        print(f"UserName  : {member['username']}")
         print(f"Phone No. : {member['p_no']}")
         print(f"Email     : {member['email']}")
         print("*"*60)
@@ -318,7 +321,7 @@ class Library:
         print("\nMember Found")
         print("-" * 60)
         print(f"ID        : {member['id']}")
-        print(f"UserName      : {member['username']}")
+        print(f"UserName  : {member['username']}")
         print(f"Phone No. : {member['p_no']}")
         print(f"Email     : {member['email']}")
         print("*"*60)
