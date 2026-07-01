@@ -87,7 +87,6 @@
 - ✅ Object-Oriented Programming (Classes, Inheritance, JSON)
 - ✅ Exception Handling (`try`, `except`, `finally`)
 - ✅ File & Folder Management (`pathlib`, `os`)
-- ✅ Web UI with NiceGUI (`nicegui`)
 
   </td>
   <td valign="top" width="50%">
