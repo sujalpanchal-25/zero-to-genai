@@ -1,6 +1,10 @@
 <div align="center">
 
+<<<<<<< HEAD
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI+🤖;Python+Powerhouse+✅+Complete!;Now+Moving+to+Data+Science+📊;Learning+in+Public+🚀" alt="Typing SVG" />
+=======
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+%7C+ML+%7C+AI+%7C+Deep+Learning;Learning+in+Public" alt="Typing SVG" />
+>>>>>>> 1f958cc169759fbc0852e29e22acd85432ff2f30
 
 <br/>
 
@@ -29,7 +33,7 @@
 
 | Field | Value |
 |---|---|
-| **Repo Name** | `ds-analytics-genai-journey` |
+| **Repo Name** | `zero-to-genai` |
 | **Short Description** | 🧠 My hands-on journey through Data Science, Analytics & GenAI — Python exercises, projects & more. |
 | **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `numpy` `pandas` `oop` `learning-in-public` |
 
@@ -205,7 +209,7 @@ python app.py
 git clone https://github.com/sujalpanchal-25/zero-to-genai.git
 
 # 2. Navigate into the folder
-cd ds-analytics-genai-journey
+cd zero-to-genai
 
 # 3. (Optional) Create a virtual environment
 python -m venv venv
