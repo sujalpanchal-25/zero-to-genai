@@ -1,10 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI+🤖;Python+Powerhouse+✅+Complete!;Now+Moving+to+Data+Science+📊;Learning+in+Public+🚀" alt="Typing SVG" />
-=======
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+%7C+ML+%7C+AI+%7C+Deep+Learning;Learning+in+Public" alt="Typing SVG" />
->>>>>>> 1f958cc169759fbc0852e29e22acd85432ff2f30
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;Now+Moving+to+Data+Science;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
