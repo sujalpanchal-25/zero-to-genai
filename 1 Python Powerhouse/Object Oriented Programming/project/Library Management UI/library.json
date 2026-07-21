@@ -1,0 +1,100 @@
+{
+    "books": [
+        {
+            "id": "B-43M3BP",
+            "title": "the code clean",
+            "author": "martin",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "01/07/2026,04:23:44 PM"
+        },
+        {
+            "id": "B-93TU9M",
+            "title": "soft skill",
+            "author": "jhon",
+            "total_copies": 20,
+            "available_copies": 20,
+            "added_on": "01/07/2026,04:24:19 PM"
+        },
+        {
+            "id": "B-Z7CIK7",
+            "title": "introduction to algorithms",
+            "author": "thomas h. cormen",
+            "total_copies": 25,
+            "available_copies": 25,
+            "added_on": "02/07/2026,02:39:54 PM"
+        },
+        {
+            "id": "B-6SFLHV",
+            "title": "python crash course",
+            "author": "eric matthes",
+            "total_copies": 20,
+            "available_copies": 19,
+            "added_on": "02/07/2026,02:40:26 PM"
+        },
+        {
+            "id": "B-ZCSJPH",
+            "title": "machine learning",
+            "author": "tom m. mitchell",
+            "total_copies": 15,
+            "available_copies": 15,
+            "added_on": "02/07/2026,02:42:05 PM"
+        },
+        {
+            "id": "B-9E9T5E",
+            "title": "the power of habit",
+            "author": "charles duhigg",
+            "total_copies": 50,
+            "available_copies": 50,
+            "added_on": "02/07/2026,02:42:44 PM"
+        },
+        {
+            "id": "B-BYS3HY",
+            "title": "the 7 habits of highly effective people",
+            "author": "stephen r. covey",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "02/07/2026,02:43:22 PM"
+        },
+        {
+            "id": "B-DW7V82",
+            "title": "author rich dad poor dad",
+            "author": "robert t. kiyosaki",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "02/07/2026,03:32:32 PM"
+        },
+        {
+            "id": "B-EFNCKR",
+            "title": "the millionaire fastlane",
+            "author": "m. j. demarco",
+            "total_copies": 60,
+            "available_copies": 60,
+            "added_on": "02/07/2026,03:33:10 PM"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-95MM84",
+            "username": "sujal#25",
+            "p_no": "9409358716",
+            "email": "sujalpanchal123@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B-6SFLHV",
+                    "title": "python crash course",
+                    "borrow_on": "10/07/2026,06:48:32 PM"
+                }
+            ],
+            "added_on": "01/07/2026,04:25:38 PM"
+        },
+        {
+            "id": "M-QVZZNH",
+            "username": "dhruv_123",
+            "p_no": "1234567890",
+            "email": "dhruv234@gmail.com",
+            "borrowed": [],
+            "added_on": "03/07/2026,10:20:53 AM"
+        }
+    ]
+}

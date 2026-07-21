@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;Now+Moving+to+Data+Science;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+30%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -11,6 +11,8 @@
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-6C63FF?style=for-the-badge&logo=gitbook&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
@@ -40,33 +42,43 @@
 ```
 📦 zero-to-genai
 │
-└── 🐍 Python Powerhouse/                         ← Python Fundamentals & Core Concepts
-    ├── 🔁 Loops in Python/
-    │   ├── Excercise1.py – Excercise19.py         ← 19 exercises
-    │   └── 📁 Project/
-    │       ├── 🎮 Guess_game.py                   ← Number Guessing Game
-    │       └── ✂️  Stone_Paper_Scissor_game.py    ← Colorama CLI Game
-    │
-    ├── 🧩 Data Structures in Python/
-    │   └── Exercise1.py – Exercise35.py           ← 35 hands-on exercises
-    │
-    ├── ⚡ Functions in Python/
-    │   └── Exercise1.py – Exercise18.py           ← 18 function exercises
-    │
-    ├── 🏛️  Object Oriented Programming/
-    │   ├── Exercise1.py                           ← OOP exercise
-    │   └── 📁 project/
-    │       ├── 📚 Library Management/
-    │       │   ├── main.py                        ← Full CLI Library System (JSON + OOP)
-    │       │   └── library.json                   ← Persistent data store
-    │       └── 🖥️  Library Management UI/
-    │           ├── app.py                         ← Web UI with NiceGUI (762 lines!)
-    │           └── library.json                   ← Persistent data store
-    │
-    └── 🛡️  Exception & File Handling/
-        └── 📁 Project/
-            └── 📁 File & Folder Handling/
-                └── main.py                        ← Full CRUD File Manager CLI App
+├── 🐍 1 Python Powerhouse/                       ← Python Fundamentals & Core Concepts
+│   ├── 🔁 Loops in Python/
+│   │   ├── Excercise1.py – Excercise19.py         ← 19 exercises
+│   │   └── 📁 Project/
+│   │       ├── 🎮 Guess_game.py                   ← Number Guessing Game
+│   │       └── ✂️  Stone_Paper_Scissor_game.py    ← Colorama CLI Game
+│   │
+│   ├── 🧩 Data Structures in Python/
+│   │   └── Exercise1.py – Exercise35.py           ← 35 hands-on exercises
+│   │
+│   ├── ⚡ Functions in Python/
+│   │   └── Exercise1.py – Exercise18.py           ← 18 function exercises
+│   │
+│   ├── 🏛️  Object Oriented Programming/
+│   │   ├── Exercise1.py                           ← OOP exercise
+│   │   └── 📁 project/
+│   │       ├── 📚 Library Management/
+│   │       │   ├── main.py                        ← Full CLI Library System (JSON + OOP)
+│   │       │   └── library.json                   ← Persistent data store
+│   │       └── 🖥️  Library Management UI/
+│   │           ├── app.py                         ← Web UI with NiceGUI (762 lines!)
+│   │           └── library.json                   ← Persistent data store
+│   │
+│   └── 🛡️  Exception & File Handling/
+│       └── 📁 Project/
+│           └── 📁 File & Folder Handling/
+│               └── main.py                        ← Full CRUD File Manager CLI App
+│
+├── 🧮 2 Numpy Ninja/                             ← Numerical Computing & Matrix Operations
+│   ├── 📚 Class 1 – 4/                           ← 12 Jupyter Notebooks (Questions, Solutions, Practice)
+│   └── 📁 Project/
+│       ├── ❌⭕ Tic_Tac_Toe.py                     ← NumPy Matrix-based CLI Game
+│       └── 🌐 main.py                             ← Interactive Web UI Tic Tac Toe (NumPy + NiceGUI)
+│
+└── 🐼 3 Pandas Playground/                        ← Data Manipulation & Analysis
+    ├── 📚 Class 1 – 4/                           ← 11 Jupyter Notebooks (Questions, Solutions, Practice)
+    └── 📊 products-100.csv                       ← Real-world Dataset for Practice
 ```
 
 ---
@@ -79,8 +91,6 @@
 
 ### 🐍 Python Powerhouse — ✅ 100% Complete!
 
-> 🏆 **All modules finished as per course curriculum!**
-
 - ✅ Loops (`for`, `while`, `break`, `continue`)
 - ✅ Data Structures (Lists, Tuples, Sets, Dicts)
 - ✅ Functions & Lambda Expressions
@@ -88,11 +98,26 @@
 - ✅ Exception Handling (`try`, `except`, `finally`)
 - ✅ File & Folder Management (`pathlib`, `os`)
 
+### 🧮 NumPy Ninja — ✅ 100% Complete!
+
+- ✅ 1D & 2D Array Creation (`arange`, `linspace`, `zeros`, `ones`)
+- ✅ Array Indexing, Slicing & Reshaping
+- ✅ Matrix Math & Vectorization (`dot`, `trace`, `sum`)
+- ✅ Boolean Masking & Axis Operations
+- ✅ NumPy Matrix Game Logic Engine (`np.trace`, `np.fliplr`)
+
+### 🐼 Pandas Playground — 🔄 30% Complete (In Progress)
+
+- ✅ Series & DataFrame Basics (Class 1)
+- 🔄 Indexing, Filtering & Slicing (Class 2 - In Progress)
+- ⏳ GroupBy, Aggregations & Pivot Calculations (Upcoming)
+- ⏳ Merging, Reshaping & Time Series (Upcoming)
+- ⏳ Dataset Analysis (`products-100.csv`)
+
   </td>
   <td valign="top" width="50%">
 
 ### 🤖 Coming Soon
-- ⏳ NumPy & Pandas
 - ⏳ Data Visualization (Matplotlib, Seaborn)
 - ⏳ Machine Learning (Scikit-Learn)
 - ⏳ Deep Learning (TensorFlow / PyTorch)
@@ -118,7 +143,7 @@
 - 🏆 Final match winner announced at the end
 
 ```bash
-cd "Python Powerhouse/Loops in Python/Project"
+cd "1 Python Powerhouse/Loops in Python/Project"
 pip install colorama
 python Stone_Paper_Scisor_game.py
 ```
@@ -136,7 +161,7 @@ python Stone_Paper_Scisor_game.py
 - 🛡️ Built with `pathlib` and `os` — no external dependencies
 
 ```bash
-cd "Python Powerhouse/Exception and File handling/Project/File & Folder Handling"
+cd "1 Python Powerhouse/Exception and File handling/Project/File & Folder Handling"
 python main.py
 ```
 
@@ -155,7 +180,7 @@ python main.py
 - 🆔 Auto-generated unique Book & Member IDs
 
 ```bash
-cd "Python Powerhouse/Object Oriented Programming/project/Library Management"
+cd "1 Python Powerhouse/Object Oriented Programming/project/Library Management"
 python main.py
 ```
 
@@ -174,9 +199,42 @@ python main.py
 - 762 lines of pure Python UI code!
 
 ```bash
-cd "Python Powerhouse/Object Oriented Programming/project/Library Management UI"
+cd "1 Python Powerhouse/Object Oriented Programming/project/Library Management UI"
 pip install nicegui
 python app.py
+```
+
+---
+
+### ❌⭕ Tic Tac Toe — NumPy CLI Edition
+
+> A matrix-driven Tic Tac Toe game built using NumPy array operations.
+
+**Features:**
+- 🧮 Winner detection calculated via matrix sums (`np.sum`) and diagonal traces (`np.trace`, `np.fliplr`)
+- 🎮 Clean 3x3 grid display with player move validation
+- ⚡ Zero hardcoded line conditions — pure array math!
+
+```bash
+cd "2 Numpy Ninja/Project"
+python Tic_Tac_Toe.py
+```
+
+---
+
+### 🌐 Tic Tac Toe — NumPy Web UI Edition
+
+> An interactive web-based Tic Tac Toe game powered by NumPy matrix logic and **NiceGUI**.
+
+**Features:**
+- 🎨 Modern web interface with live score tracking and interactive 3x3 grid
+- 📊 Game state matrix completely managed with NumPy array operations
+- 🔄 Single-click board reset and player customization
+
+```bash
+cd "2 Numpy Ninja/Project"
+pip install numpy nicegui
+python main.py
 ```
 
 ---
@@ -186,6 +244,8 @@ python app.py
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-UI%20Framework-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -211,10 +271,10 @@ python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
 
 # 4. Install dependencies
-pip install colorama nicegui
+pip install numpy pandas colorama nicegui
 
 # 5. Run any exercise or project!
-python "Python Powerhouse/Loops in Python/Project/Stone_Paper_Scisor_game.py"
+python "2 Numpy Ninja/Project/main.py"
 ```
 
 ---
@@ -229,7 +289,14 @@ python "Python Powerhouse/Loops in Python/Project/Stone_Paper_Scisor_game.py"
 | &nbsp;&nbsp;&nbsp;⚡ Functions | ✅ Complete | 18 exercises |
 | &nbsp;&nbsp;&nbsp;🏛️ OOP | ✅ Complete | 1 exercise + 2 projects (CLI & Web UI) |
 | &nbsp;&nbsp;&nbsp;🛡️ Exception & File Handling | ✅ Complete | 1 full project |
-| 📊 NumPy & Pandas | ⏳ Coming Soon | — |
+| 🧮 **NumPy Ninja** | 🏆 **100% Complete** | **12 Notebooks & 2 Projects** |
+| &nbsp;&nbsp;&nbsp;📘 Class 1–4 Fundamentals | ✅ Complete | Questions, Solutions & Practice Notebooks |
+| &nbsp;&nbsp;&nbsp;❌⭕ Tic Tac Toe (CLI Engine) | ✅ Complete | Matrix math winner detection |
+| &nbsp;&nbsp;&nbsp;🌐 Tic Tac Toe (NiceGUI Web UI) | ✅ Complete | Interactive web game |
+| 🐼 **Pandas Playground** | 🔄 **30% Complete** | **11 Notebooks & Real Dataset** |
+| &nbsp;&nbsp;&nbsp;📘 Class 1–2 Fundamentals | 🔄 In Progress | Series, DataFrames & Selection |
+| &nbsp;&nbsp;&nbsp;📘 Class 3–4 Advanced Wrangling | ⏳ Upcoming | GroupBy, Aggregations & Merging |
+| &nbsp;&nbsp;&nbsp;📊 Real-World Dataset Practice | ⏳ Upcoming | `products-100.csv` analysis |
 | 📉 Data Visualization | ⏳ Coming Soon | — |
 | 🤖 Machine Learning | ⏳ Coming Soon | — |
 | 🧬 Generative AI | ⏳ Coming Soon | — |
