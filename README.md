@@ -98,6 +98,12 @@
 - ✅ Exception Handling (`try`, `except`, `finally`)
 - ✅ File & Folder Management (`pathlib`, `os`)
 
+### 📈 Statistics & Probability — ✅ 100% Complete!
+
+- ✅ Descriptive Statistics (Mean, Median, Mode, Variance, Std Dev)
+- ✅ Probability Distributions & Bayes' Theorem
+- ✅ Hypothesis Testing & Correlation Analysis
+
 ### 🧮 NumPy Ninja — ✅ 100% Complete!
 
 - ✅ 1D & 2D Array Creation (`arange`, `linspace`, `zeros`, `ones`)
@@ -117,16 +123,40 @@
   </td>
   <td valign="top" width="50%">
 
-### 🤖 Coming Soon
-- ⏳ Data Visualization (Matplotlib, Seaborn)
-- ⏳ Machine Learning (Scikit-Learn)
-- ⏳ Deep Learning (TensorFlow / PyTorch)
-- ⏳ Generative AI & LLMs
-- ⏳ End-to-End Data Science Projects
+### 🤖 Upcoming Modules
+- ⏳ Visual Intelligence: Data Visualization
+- ⏳ Excel Intelligence
+- ⏳ Power BI Prodigy
+- ⏳ SQL Intelligence
+- ⏳ Machine Learning Unleashed
+- ⏳ Deep Learning Demystified
+- ⏳ Generative AI Revolution
+- ⏳ MLOps & Deployment
+- ⏳ Live Sessions
 
   </td>
   </tr>
 </table>
+
+---
+
+## 📊 Learning Progress
+
+| Module | Progress | Status |
+| :--- | :--- | :---: |
+| 🐍 **Python Powerhouse** | `████████████████████` 100% | ✅ Completed |
+| 📈 **Statistics & Probability** | `████████████████████` 100% | ✅ Completed |
+| 🧮 **NumPy Ninja** | `████████████████████` 100% | ✅ Completed |
+| 🐼 **Pandas Playground** | `██████░░░░░░░░░░░░░░` 30% | 🔄 In Progress |
+| 📊 **Visual Intelligence: Data Visualization** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 📑 **Excel Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🟡 **Power BI Prodigy** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🤖 **Machine Learning Unleashed** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🧠 **Deep Learning Demystified** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🧬 **Generative AI Revolution** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| ⚙️ **MLOps & Deployment** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🎙️ **Live Sessions** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 
 ---
 
@@ -276,30 +306,6 @@ pip install numpy pandas colorama nicegui
 # 5. Run any exercise or project!
 python "2 Numpy Ninja/Project/main.py"
 ```
-
----
-
-## 📈 Progress Tracker
-
-| Module | Status | Exercises / Projects |
-|---|---|---|
-| 🐍 **Python Powerhouse** | 🏆 **100% Complete** | **90+ exercises & 5 projects** |
-| &nbsp;&nbsp;&nbsp;🔁 Loops in Python | ✅ Complete | 19 exercises + 2 projects |
-| &nbsp;&nbsp;&nbsp;🧩 Data Structures | ✅ Complete | 35 exercises |
-| &nbsp;&nbsp;&nbsp;⚡ Functions | ✅ Complete | 18 exercises |
-| &nbsp;&nbsp;&nbsp;🏛️ OOP | ✅ Complete | 1 exercise + 2 projects (CLI & Web UI) |
-| &nbsp;&nbsp;&nbsp;🛡️ Exception & File Handling | ✅ Complete | 1 full project |
-| 🧮 **NumPy Ninja** | 🏆 **100% Complete** | **12 Notebooks & 2 Projects** |
-| &nbsp;&nbsp;&nbsp;📘 Class 1–4 Fundamentals | ✅ Complete | Questions, Solutions & Practice Notebooks |
-| &nbsp;&nbsp;&nbsp;❌⭕ Tic Tac Toe (CLI Engine) | ✅ Complete | Matrix math winner detection |
-| &nbsp;&nbsp;&nbsp;🌐 Tic Tac Toe (NiceGUI Web UI) | ✅ Complete | Interactive web game |
-| 🐼 **Pandas Playground** | 🔄 **30% Complete** | **11 Notebooks & Real Dataset** |
-| &nbsp;&nbsp;&nbsp;📘 Class 1–2 Fundamentals | 🔄 In Progress | Series, DataFrames & Selection |
-| &nbsp;&nbsp;&nbsp;📘 Class 3–4 Advanced Wrangling | ⏳ Upcoming | GroupBy, Aggregations & Merging |
-| &nbsp;&nbsp;&nbsp;📊 Real-World Dataset Practice | ⏳ Upcoming | `products-100.csv` analysis |
-| 📉 Data Visualization | ⏳ Coming Soon | — |
-| 🤖 Machine Learning | ⏳ Coming Soon | — |
-| 🧬 Generative AI | ⏳ Coming Soon | — |
 
 ---
 
