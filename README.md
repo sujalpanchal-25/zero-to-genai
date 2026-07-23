@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+30%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+80%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -77,7 +77,7 @@
 │       └── 🌐 main.py                             ← Interactive Web UI Tic Tac Toe (NumPy + NiceGUI)
 │
 └── 🐼 3 Pandas Playground/                        ← Data Manipulation & Analysis
-    ├── 📚 Class 1 – 4/                           ← 11 Jupyter Notebooks (Questions, Solutions, Practice)
+    ├── 📚 Class 1 – 9/                           ← 27 Jupyter Notebooks (Questions, Solutions, Practice)
     └── 📊 products-100.csv                       ← Real-world Dataset for Practice
 ```
 
@@ -112,13 +112,18 @@
 - ✅ Boolean Masking & Axis Operations
 - ✅ NumPy Matrix Game Logic Engine (`np.trace`, `np.fliplr`)
 
-### 🐼 Pandas Playground — 🔄 30% Complete (In Progress)
+### 🐼 Pandas Playground — 🔄 80% Complete (In Progress)
 
-- ✅ Series & DataFrame Basics (Class 1)
-- 🔄 Indexing, Filtering & Slicing (Class 2 - In Progress)
-- ⏳ GroupBy, Aggregations & Pivot Calculations (Upcoming)
-- ⏳ Merging, Reshaping & Time Series (Upcoming)
-- ⏳ Dataset Analysis (`products-100.csv`)
+- ✅ Introduction & Setup (Series & DataFrames) (Class 1)
+- ✅ DataFrame Inspection & Summary Stats (Class 2)
+- ✅ Data Cleaning Essentials (`dropna`, `fillna`, duplicates) (Class 3)
+- ✅ Data Selection & Filtering (`loc`, `iloc`, Boolean indexing) (Class 4)
+- ✅ Sorting & Descriptive Statistics (Class 5)
+- ✅ GroupBy, Aggregations & Pivot Tables (Class 6)
+- ✅ Merging, Joining & Concatenation (Class 7)
+- ✅ Time Series Analysis (`to_datetime`, Resampling) (Class 8)
+- ✅ Advanced Performance & Vectorization (Class 9)
+- ⏳ End-of-Module Capstone Project (Pending)
 
   </td>
   <td valign="top" width="50%">
@@ -147,7 +152,7 @@
 | 🐍 **Python Powerhouse** | `████████████████████` 100% | ✅ Completed |
 | 📈 **Statistics & Probability** | `████████████████████` 100% | ✅ Completed |
 | 🧮 **NumPy Ninja** | `████████████████████` 100% | ✅ Completed |
-| 🐼 **Pandas Playground** | `██████░░░░░░░░░░░░░░` 30% | 🔄 In Progress |
+| 🐼 **Pandas Playground** | `████████████████░░░░` 80% | 🔄 In Progress |
 | 📊 **Visual Intelligence: Data Visualization** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 📑 **Excel Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🟡 **Power BI Prodigy** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
