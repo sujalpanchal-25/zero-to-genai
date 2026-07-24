@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+80%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -78,7 +78,12 @@
 │
 └── 🐼 3 Pandas Playground/                        ← Data Manipulation & Analysis
     ├── 📚 Class 1 – 9/                           ← 27 Jupyter Notebooks (Questions, Solutions, Practice)
-    └── 📊 products-100.csv                       ← Real-world Dataset for Practice
+    ├── 📁 Project/                               ← Pandas Capstone Project
+    │   ├── ❓ 1_Questions/                       ← Student Performance Questions Notebook
+    │   ├── 💡 2_Answers/                         ← Complete Solution Notebook & Analytics
+    │   └── 🏋️ 3_Practice/                        ← Hands-on Practice Notebook
+    ├── 📊 products-100.csv                       ← Real-world Dataset for Practice
+    └── 🎓 student_performance.csv                ← Student Performance Analytics Dataset (1M Rows)
 ```
 
 ---
@@ -112,7 +117,7 @@
 - ✅ Boolean Masking & Axis Operations
 - ✅ NumPy Matrix Game Logic Engine (`np.trace`, `np.fliplr`)
 
-### 🐼 Pandas Playground — 🔄 80% Complete (In Progress)
+### 🐼 Pandas Playground — ✅ 100% Complete!
 
 - ✅ Introduction & Setup (Series & DataFrames) (Class 1)
 - ✅ DataFrame Inspection & Summary Stats (Class 2)
@@ -123,7 +128,7 @@
 - ✅ Merging, Joining & Concatenation (Class 7)
 - ✅ Time Series Analysis (`to_datetime`, Resampling) (Class 8)
 - ✅ Advanced Performance & Vectorization (Class 9)
-- ⏳ End-of-Module Capstone Project (Pending)
+- ✅ End-of-Module Capstone Project (`Stud Que.ipynb`, `Stud Sol.ipynb`, `Stud_Que_practice_file.ipynb`)
 
   </td>
   <td valign="top" width="50%">
@@ -152,7 +157,7 @@
 | 🐍 **Python Powerhouse** | `████████████████████` 100% | ✅ Completed |
 | 📈 **Statistics & Probability** | `████████████████████` 100% | ✅ Completed |
 | 🧮 **NumPy Ninja** | `████████████████████` 100% | ✅ Completed |
-| 🐼 **Pandas Playground** | `████████████████░░░░` 80% | 🔄 In Progress |
+| 🐼 **Pandas Playground** | `████████████████████` 100% | ✅ Completed |
 | 📊 **Visual Intelligence: Data Visualization** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 📑 **Excel Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🟡 **Power BI Prodigy** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -270,6 +275,24 @@ python Tic_Tac_Toe.py
 cd "2 Numpy Ninja/Project"
 pip install numpy nicegui
 python main.py
+```
+
+---
+
+### 🐼 Student Performance Analytics — Pandas Capstone Project
+
+> Comprehensive data analysis on a massive dataset of 1,000,000 student records using Pandas & NumPy.
+
+**Features:**
+- 📊 Large-Scale Dataset Analysis (1,000,000 rows × 6 columns)
+- 🔍 Advanced Selection, Masking & Filtering (`loc`, `iloc`, Boolean Logic)
+- ⚙️ Custom Feature Engineering (`study_efficiency`, `score_level`, `study_category`)
+- 📈 Aggregations, Statistical Summaries & Top-N Rankings (`nlargest`, `sort_values`, `value_counts`)
+- 📁 Complete Structured Workflow (`1_Questions`, `2_Answers`, `3_Practice` notebooks)
+
+```bash
+cd "3 Pandas Playground/Project/2_Answers"
+jupyter notebook "Stud Sol.ipynb"
 ```
 
 ---

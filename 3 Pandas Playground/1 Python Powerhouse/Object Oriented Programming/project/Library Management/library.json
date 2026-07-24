@@ -1,0 +1,30 @@
+{
+    "books": [
+        {
+            "id": "B-DSN8NP",
+            "title": "soft skill",
+            "author": "martin",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "01/07/2026,11:53:10 AM"
+        },
+        {
+            "id": "B-W00R9Z",
+            "title": "the clen code",
+            "author": "jhon",
+            "total_copies": 40,
+            "available_copies": 40,
+            "added_on": "01/07/2026,11:53:34 AM"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-E1E0CD",
+            "username": "sujal@123",
+            "p_no": "9409358716",
+            "email": "sujalpanchal123@gmail.com",
+            "borrowed": [],
+            "added_on": "01/07/2026,11:58:14 AM"
+        }
+    ]
+}
