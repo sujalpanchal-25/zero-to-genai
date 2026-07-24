@@ -78,12 +78,14 @@
 │
 └── 🐼 3 Pandas Playground/                        ← Data Manipulation & Analysis
     ├── 📚 Class 1 – 9/                           ← 27 Jupyter Notebooks (Questions, Solutions, Practice)
-    ├── 📁 Project/                               ← Pandas Capstone Project
-    │   ├── ❓ 1_Questions/                       ← Student Performance Questions Notebook
-    │   ├── 💡 2_Answers/                         ← Complete Solution Notebook & Analytics
-    │   └── 🏋️ 3_Practice/                        ← Hands-on Practice Notebook
-    ├── 📊 products-100.csv                       ← Real-world Dataset for Practice
-    └── 🎓 student_performance.csv                ← Student Performance Analytics Dataset (1M Rows)
+    └── 📁 Project/                               ← Pandas Capstone Projects
+        ├── 🎓 1/                                 ← Project 1: Student Performance Analytics (1M Rows)
+        │   ├── ❓ 1_Questions/                   ← Questions Notebook & Dataset
+        │   ├── 💡 2_Answers/                     ← Complete Solution Notebook & Analytics
+        │   └── 🏋️ 3_Practice/                    ← Hands-on Practice Notebook
+        └── 🛒 2/                                 ← Project 2: E-Commerce Product Catalog Analytics
+            ├── 📓 practice_file(1).ipynb         ← Selection, Slicing & Filtering Notebook
+            └── 📊 products-100.csv               ← Product Catalog Dataset (100 Rows)
 ```
 
 ---
@@ -128,7 +130,7 @@
 - ✅ Merging, Joining & Concatenation (Class 7)
 - ✅ Time Series Analysis (`to_datetime`, Resampling) (Class 8)
 - ✅ Advanced Performance & Vectorization (Class 9)
-- ✅ End-of-Module Capstone Project (`Stud Que.ipynb`, `Stud Sol.ipynb`, `Stud_Que_practice_file.ipynb`)
+- ✅ Capstone Projects (Project 1: Student Performance Analytics & Project 2: E-Commerce Product Catalog Analytics)
 
   </td>
   <td valign="top" width="50%">
@@ -279,7 +281,7 @@ python main.py
 
 ---
 
-### 🐼 Student Performance Analytics — Pandas Capstone Project
+### 🐼 Student Performance Analytics — Pandas Capstone Project 1
 
 > Comprehensive data analysis on a massive dataset of 1,000,000 student records using Pandas & NumPy.
 
@@ -291,8 +293,26 @@ python main.py
 - 📁 Complete Structured Workflow (`1_Questions`, `2_Answers`, `3_Practice` notebooks)
 
 ```bash
-cd "3 Pandas Playground/Project/2_Answers"
+cd "3 Pandas Playground/Project/1/2_Answers"
 jupyter notebook "Stud Sol.ipynb"
+```
+
+---
+
+### 🛒 E-Commerce Product Catalog Analytics — Pandas Capstone Project 2
+
+> Data exploration, advanced conditional filtering, index slicing, and missing data validation on an E-Commerce Product Catalog dataset.
+
+**Features:**
+- 📦 Real-World Product Catalog Analysis (`products-100.csv` — 100 rows × 13 attributes)
+- 🛡️ Data Health & Missing Value Checks (`df.isna().sum()`, `df.isna().any()`)
+- 🎯 Indexing & Slicing (`loc`, `iloc`, multi-column data extraction)
+- ⚡ Complex Boolean Logic & Filtering (filtering by stock count, price thresholds, brand names, and availability states)
+- 📊 Product Inventory Insights (analyzing `in_stock`, `pre_order`, and `limited_stock` products)
+
+```bash
+cd "3 Pandas Playground/Project/2"
+jupyter notebook "practice_file(1).ipynb"
 ```
 
 ---
