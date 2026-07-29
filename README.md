@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -13,6 +13,8 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-6C63FF?style=for-the-badge&logo=gitbook&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
@@ -33,7 +35,7 @@
 |---|---|
 | **Repo Name** | `zero-to-genai` |
 | **Short Description** | 🧠 My hands-on journey through Data Science, Analytics & GenAI — Python exercises, projects & more. |
-| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `numpy` `pandas` `oop` `learning-in-public` |
+| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
 
 ---
 
@@ -76,16 +78,24 @@
 │       ├── ❌⭕ Tic_Tac_Toe.py                     ← NumPy Matrix-based CLI Game
 │       └── 🌐 main.py                             ← Interactive Web UI Tic Tac Toe (NumPy + NiceGUI)
 │
-└── 🐼 3 Pandas Playground/                        ← Data Manipulation & Analysis
-    ├── 📚 Class 1 – 9/                           ← 27 Jupyter Notebooks (Questions, Solutions, Practice)
-    └── 📁 Project/                               ← Pandas Capstone Projects
-        ├── 🎓 1/                                 ← Project 1: Student Performance Analytics (1M Rows)
-        │   ├── ❓ 1_Questions/                   ← Questions Notebook & Dataset
-        │   ├── 💡 2_Answers/                     ← Complete Solution Notebook & Analytics
-        │   └── 🏋️ 3_Practice/                    ← Hands-on Practice Notebook
-        └── 🛒 2/                                 ← Project 2: E-Commerce Product Catalog Analytics
-            ├── 📓 practice_file(1).ipynb         ← Selection, Slicing & Filtering Notebook
-            └── 📊 products-100.csv               ← Product Catalog Dataset (100 Rows)
+├── 🐼 3 Pandas Playground/                        ← Data Manipulation & Analysis
+│   ├── 📚 Class 1 – 9/                           ← 27 Jupyter Notebooks (Questions, Solutions, Practice)
+│   └── 📁 Project/                               ← Pandas Capstone Projects
+│       ├── 🎓 1/                                 ← Project 1: Student Performance Analytics (1M Rows)
+│       │   ├── ❓ 1_Questions/                   ← Questions Notebook & Dataset
+│       │   ├── 💡 2_Answers/                     ← Complete Solution Notebook & Analytics
+│       │   └── 🏋️ 3_Practice/                    ← Hands-on Practice Notebook
+│       └── 🛒 2/                                 ← Project 2: E-Commerce Product Catalog Analytics
+│           ├── 📓 practice_file(1).ipynb         ← Selection, Slicing & Filtering Notebook
+│           └── 📊 products-100.csv               ← Product Catalog Dataset (100 Rows)
+│
+└── 📊 4 Visual Intelligence Data Visualization/   ← Data Visualization with Matplotlib & Seaborn
+    ├── 🎨 Class 1/                               ← Matplotlib Fundamentals (Figure Anatomy, Line & Bar Plots)
+    ├── 📈 Class 2/                               ← Seaborn Intro & Relational Plots (scatterplot, lineplot)
+    ├── 📊 Class 3/                               ← Seaborn Categorical Plots (barplot, boxplot, violinplot, etc.)
+    ├── 📉 Class 4/                               ← Seaborn Distribution Plots (histplot, kdeplot, ecdfplot)
+    ├── 📉 Class 5/                               ← Seaborn Regression & Mixed Plots (regplot, lmplot, jointplot)
+    └── 🗺️ Class 6/                               ← Seaborn Matrix Plots & Styling (heatmap, clustermap, themes)
 ```
 
 ---
@@ -132,11 +142,19 @@
 - ✅ Advanced Performance & Vectorization (Class 9)
 - ✅ Capstone Projects (Project 1: Student Performance Analytics & Project 2: E-Commerce Product Catalog Analytics)
 
+### 📊 Visual Intelligence: Data Visualization — ✅ 100% Complete!
+
+- ✅ Matplotlib Fundamentals & Figure Anatomy (Class 1)
+- ✅ Seaborn Relational Plots (`scatterplot`, `lineplot`) (Class 2)
+- ✅ Seaborn Categorical Plots (`barplot`, `boxplot`, `violinplot`, `swarmplot`) (Class 3)
+- ✅ Seaborn Distribution Plots (`histplot`, `kdeplot`, `ecdfplot`, `rugplot`) (Class 4)
+- ✅ Seaborn Regression & Mixed Plots (`regplot`, `lmplot`, `jointplot`, `pairplot`) (Class 5)
+- ✅ Seaborn Matrix & Grid Plots (`heatmap`, `clustermap`, `PairGrid`, `FacetGrid`) & Custom Themes (Class 6)
+
   </td>
   <td valign="top" width="50%">
 
 ### 🤖 Upcoming Modules
-- ⏳ Visual Intelligence: Data Visualization
 - ⏳ Excel Intelligence
 - ⏳ Power BI Prodigy
 - ⏳ SQL Intelligence
@@ -160,7 +178,7 @@
 | 📈 **Statistics & Probability** | `████████████████████` 100% | ✅ Completed |
 | 🧮 **NumPy Ninja** | `████████████████████` 100% | ✅ Completed |
 | 🐼 **Pandas Playground** | `████████████████████` 100% | ✅ Completed |
-| 📊 **Visual Intelligence: Data Visualization** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 📊 **Visual Intelligence: Data Visualization** | `████████████████████` 100% | ✅ Completed |
 | 📑 **Excel Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🟡 **Power BI Prodigy** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -317,6 +335,25 @@ jupyter notebook "practice_file(1).ipynb"
 
 ---
 
+### 📊 Data Visualization Masterclass — Matplotlib & Seaborn Series
+
+> A complete 6-class comprehensive suite covering statistical, relational, categorical, distribution, and matrix visualization techniques.
+
+**Features:**
+- 🎨 **Matplotlib Core**: Custom figures, subplots, axes manipulation, layout tuning & chart customization
+- 📈 **Relational Plots**: High-dimensional data exploration using `scatterplot()` and `lineplot()` with hue, style & size encodings
+- 📊 **Categorical Analysis**: Deep dive into `barplot()`, `countplot()`, `boxplot()`, `violinplot()`, `stripplot()` & `swarmplot()`
+- 📉 **Distribution Insights**: Estimating density and spread using `histplot()`, `kdeplot()`, `ecdfplot()` & `rugplot()`
+- 📉 **Regression & Multi-Variate**: Linear trend modeling with `regplot()`, `lmplot()`, `jointplot()` & `pairplot()`
+- 🗺️ **Matrix Plots & Styling**: Custom heatmaps, hierarchical clustering with `clustermap()`, custom palettes & seaborn themes
+
+```bash
+cd "4 Visual Intelligence Data Visualization/Class 1/2_Answers"
+jupyter notebook Matplotlib_class1_solutions.ipynb
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -324,6 +361,8 @@ jupyter notebook "practice_file(1).ipynb"
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-UI%20Framework-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -349,7 +388,7 @@ python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
 
 # 4. Install dependencies
-pip install numpy pandas colorama nicegui
+pip install numpy pandas colorama nicegui matplotlib seaborn
 
 # 5. Run any exercise or project!
 python "2 Numpy Ninja/Project/main.py"
