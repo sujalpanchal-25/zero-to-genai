@@ -95,7 +95,9 @@
     ├── 📊 Class 3/                               ← Seaborn Categorical Plots (barplot, boxplot, violinplot, etc.)
     ├── 📉 Class 4/                               ← Seaborn Distribution Plots (histplot, kdeplot, ecdfplot)
     ├── 📉 Class 5/                               ← Seaborn Regression & Mixed Plots (regplot, lmplot, jointplot)
-    └── 🗺️ Class 6/                               ← Seaborn Matrix Plots & Styling (heatmap, clustermap, themes)
+    ├── 🗺️ Class 6/                               ← Seaborn Matrix Plots & Styling (heatmap, clustermap, themes)
+    └── 📁 Project/                               ← Visual Intelligence Capstone Project
+        └── 🍽️ Project_practice file.ipynb        ← Restaurant Tips Analytics (Seaborn & Matplotlib)
 ```
 
 ---
@@ -150,6 +152,7 @@
 - ✅ Seaborn Distribution Plots (`histplot`, `kdeplot`, `ecdfplot`, `rugplot`) (Class 4)
 - ✅ Seaborn Regression & Mixed Plots (`regplot`, `lmplot`, `jointplot`, `pairplot`) (Class 5)
 - ✅ Seaborn Matrix & Grid Plots (`heatmap`, `clustermap`, `PairGrid`, `FacetGrid`) & Custom Themes (Class 6)
+- ✅ Capstone Project: Restaurant Tips Analytics (`Project_practice file.ipynb`)
 
   </td>
   <td valign="top" width="50%">
@@ -335,21 +338,21 @@ jupyter notebook "practice_file(1).ipynb"
 
 ---
 
-### 📊 Data Visualization Masterclass — Matplotlib & Seaborn Series
+### 🍽️ Restaurant Tips Analytics — Visual Intelligence Capstone Project
 
-> A complete 6-class comprehensive suite covering statistical, relational, categorical, distribution, and matrix visualization techniques.
+> An end-to-end Exploratory Data Analysis (EDA) and visualization capstone project analyzing restaurant tipping behavior, customer spend distributions, and demographic trends using Seaborn & Matplotlib.
 
 **Features:**
-- 🎨 **Matplotlib Core**: Custom figures, subplots, axes manipulation, layout tuning & chart customization
-- 📈 **Relational Plots**: High-dimensional data exploration using `scatterplot()` and `lineplot()` with hue, style & size encodings
-- 📊 **Categorical Analysis**: Deep dive into `barplot()`, `countplot()`, `boxplot()`, `violinplot()`, `stripplot()` & `swarmplot()`
-- 📉 **Distribution Insights**: Estimating density and spread using `histplot()`, `kdeplot()`, `ecdfplot()` & `rugplot()`
-- 📉 **Regression & Multi-Variate**: Linear trend modeling with `regplot()`, `lmplot()`, `jointplot()` & `pairplot()`
-- 🗺️ **Matrix Plots & Styling**: Custom heatmaps, hierarchical clustering with `clustermap()`, custom palettes & seaborn themes
+- 💵 **Bill Distribution Analysis**: Estimating customer spending patterns using `histplot()`
+- 👥 **Demographic Insights**: Analyzing visitor distribution by gender using `countplot()`
+- 📊 **Day-Wise Spend & Spread**: Evaluating average bills, variations, and densities across weekdays/weekends using `barplot()`, `boxplot()`, and `violinplot()`
+- 🔍 **Outlier & Concentration Spotting**: Pinpointing abnormal bills and core clusters using `stripplot()`
+- 📈 **Tip-to-Bill Correlation**: Modeling the relationship between total bill size and tip amount using `scatterplot()`
+- 🗺️ **Multivariate Matrix & Heatmaps**: Uncovering correlations among all numerical variables using `pairplot()` and Seaborn `heatmap()`
 
 ```bash
-cd "4 Visual Intelligence Data Visualization/Class 1/2_Answers"
-jupyter notebook Matplotlib_class1_solutions.ipynb
+cd "4 Visual Intelligence Data Visualization/Project"
+jupyter notebook "Project_practice file.ipynb"
 ```
 
 ---
