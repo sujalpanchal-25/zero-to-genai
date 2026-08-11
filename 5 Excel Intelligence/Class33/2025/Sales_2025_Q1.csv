@@ -1,0 +1,6 @@
+OrderID,Date,CustomerID,ProductID,Qty,UnitPrice,Discount%,Region,Channel
+2001,01-01-2025,C001,P001,2,500,0.05,North,Online
+2002,15-01-2025,C002,P002,1,1200,0.0,South,Retail
+2003,22-01-2025,C003,P003,3,700,0.1,West,Online
+2004,05-02-2025,C004,P004,2,1500,0.15,East,Retail
+2005,10-03-2025,C005,P005,4,800,0.05,North,Online
