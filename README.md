@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+70%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -15,6 +15,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://microsoft.com/excel)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-6C63FF?style=for-the-badge&logo=gitbook&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
@@ -35,7 +36,7 @@
 |---|---|
 | **Repo Name** | `zero-to-genai` |
 | **Short Description** | 🧠 My hands-on journey through Data Science, Analytics & GenAI — Python exercises, projects & more. |
-| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
+| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `excel` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
 
 ---
 
@@ -89,15 +90,18 @@
 │           ├── 📓 practice_file(1).ipynb         ← Selection, Slicing & Filtering Notebook
 │           └── 📊 products-100.csv               ← Product Catalog Dataset (100 Rows)
 │
-└── 📊 4 Visual Intelligence Data Visualization/   ← Data Visualization with Matplotlib & Seaborn
-    ├── 🎨 Class 1/                               ← Matplotlib Fundamentals (Figure Anatomy, Line & Bar Plots)
-    ├── 📈 Class 2/                               ← Seaborn Intro & Relational Plots (scatterplot, lineplot)
-    ├── 📊 Class 3/                               ← Seaborn Categorical Plots (barplot, boxplot, violinplot, etc.)
-    ├── 📉 Class 4/                               ← Seaborn Distribution Plots (histplot, kdeplot, ecdfplot)
-    ├── 📉 Class 5/                               ← Seaborn Regression & Mixed Plots (regplot, lmplot, jointplot)
-    ├── 🗺️ Class 6/                               ← Seaborn Matrix Plots & Styling (heatmap, clustermap, themes)
-    └── 📁 Project/                               ← Visual Intelligence Capstone Project
-        └── 🍽️ Project_practice file.ipynb        ← Restaurant Tips Analytics (Seaborn & Matplotlib)
+├── 📊 4 Visual Intelligence Data Visualization/   ← Data Visualization with Matplotlib & Seaborn
+│   ├── 🎨 Class 1/                               ← Matplotlib Fundamentals (Figure Anatomy, Line & Bar Plots)
+│   ├── 📈 Class 2/                               ← Seaborn Intro & Relational Plots (scatterplot, lineplot)
+│   ├── 📊 Class 3/                               ← Seaborn Categorical Plots (barplot, boxplot, violinplot, etc.)
+│   ├── 📉 Class 4/                               ← Seaborn Distribution Plots (histplot, kdeplot, ecdfplot)
+│   ├── 📉 Class 5/                               ← Seaborn Regression & Mixed Plots (regplot, lmplot, jointplot)
+│   ├── 🗺️ Class 6/                               ← Seaborn Matrix Plots & Styling (heatmap, clustermap, themes)
+│   └── 📁 Project/                               ← Visual Intelligence Capstone Project
+│       └── 🍽️ Project_practice file.ipynb        ← Restaurant Tips Analytics (Seaborn & Matplotlib)
+│
+└── 📑 5 Excel Intelligence/                       ← Spreadsheet Analytics & Excel Intelligence
+    └── 📚 Class 2 – 35/                           ← Hands-on Excel Practice Workbooks (Class 2 to 35)
 ```
 
 ---
@@ -154,11 +158,18 @@
 - ✅ Seaborn Matrix & Grid Plots (`heatmap`, `clustermap`, `PairGrid`, `FacetGrid`) & Custom Themes (Class 6)
 - ✅ Capstone Project: Restaurant Tips Analytics (`Project_practice file.ipynb`)
 
+### 📑 Excel Intelligence — 🔄 70% In Progress!
+
+- ⚡ Data Formatting, Grid Fundamentals & Workbook Management
+- 📊 Formulas, Functions & Cell Referencing
+- 📈 Data Cleaning, Sorting & Filtering Techniques
+- 🔍 Advanced Lookup Functions & Data Aggregation
+- 📉 Charts, Visual Summaries & Pivot Table Analytics
+
   </td>
   <td valign="top" width="50%">
 
 ### 🤖 Upcoming Modules
-- ⏳ Excel Intelligence
 - ⏳ Power BI Prodigy
 - ⏳ SQL Intelligence
 - ⏳ Machine Learning Unleashed
@@ -182,7 +193,7 @@
 | 🧮 **NumPy Ninja** | `████████████████████` 100% | ✅ Completed |
 | 🐼 **Pandas Playground** | `████████████████████` 100% | ✅ Completed |
 | 📊 **Visual Intelligence: Data Visualization** | `████████████████████` 100% | ✅ Completed |
-| 📑 **Excel Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 📑 **Excel Intelligence** | `██████████████░░░░░░` 70% | 🔄 In Progress |
 | 🟡 **Power BI Prodigy** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🤖 **Machine Learning Unleashed** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -366,6 +377,7 @@ jupyter notebook "Project_practice file.ipynb"
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-UI%20Framework-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
