@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+70%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -101,7 +101,11 @@
 │       └── 🍽️ Project_practice file.ipynb        ← Restaurant Tips Analytics (Seaborn & Matplotlib)
 │
 └── 📑 5 Excel Intelligence/                       ← Spreadsheet Analytics & Excel Intelligence
-    └── 📚 Class 2 – 35/                           ← Hands-on Excel Practice Workbooks (Class 2 to 35)
+    ├── 📚 Class 2 – 45/                           ← Hands-on Excel Practice Workbooks (Classes 2 to 45)
+    ├── 🏏 Project1/                              ← Excel Capstone Project 1
+    │   └── 📁 IPL Dashboard/                     ← IPL 2025 Analytics & Interactive Dashboard (.xlsx)
+    └── 👥 Project2/                              ← Excel Capstone Project 2
+        └── 📁 HR Attrition/                      ← HR Attrition Analytics & Interactive Dashboard (.xlsx)
 ```
 
 ---
@@ -158,13 +162,15 @@
 - ✅ Seaborn Matrix & Grid Plots (`heatmap`, `clustermap`, `PairGrid`, `FacetGrid`) & Custom Themes (Class 6)
 - ✅ Capstone Project: Restaurant Tips Analytics (`Project_practice file.ipynb`)
 
-### 📑 Excel Intelligence — 🔄 70% In Progress!
+### 📑 Excel Intelligence — ✅ 100% Complete!
 
-- ⚡ Data Formatting, Grid Fundamentals & Workbook Management
-- 📊 Formulas, Functions & Cell Referencing
-- 📈 Data Cleaning, Sorting & Filtering Techniques
-- 🔍 Advanced Lookup Functions & Data Aggregation
-- 📉 Charts, Visual Summaries & Pivot Table Analytics
+- ✅ Data Formatting, Grid Fundamentals & Workbook Management (Classes 2–9)
+- ✅ Formulas, Functions & Cell Referencing (Classes 10–19)
+- ✅ Data Cleaning, Sorting, Filtering & Validation (Classes 20–29)
+- ✅ Advanced Lookups, Pivot Tables & Data Aggregation (Classes 30–39)
+- ✅ Power Query ETL, Dynamic Arrays & Advanced Analytics (Classes 40–45)
+- ✅ Capstone Project 1: IPL 2025 Analytics Dashboard (`IPL Dashboard.xlsx`)
+- ✅ Capstone Project 2: HR Attrition Analytics Dashboard (`HR Attrition project.xlsx`)
 
   </td>
   <td valign="top" width="50%">
@@ -193,7 +199,7 @@
 | 🧮 **NumPy Ninja** | `████████████████████` 100% | ✅ Completed |
 | 🐼 **Pandas Playground** | `████████████████████` 100% | ✅ Completed |
 | 📊 **Visual Intelligence: Data Visualization** | `████████████████████` 100% | ✅ Completed |
-| 📑 **Excel Intelligence** | `██████████████░░░░░░` 70% | 🔄 In Progress |
+| 📑 **Excel Intelligence** | `████████████████████` 100% | ✅ Completed |
 | 🟡 **Power BI Prodigy** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🤖 **Machine Learning Unleashed** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -364,6 +370,40 @@ jupyter notebook "practice_file(1).ipynb"
 ```bash
 cd "4 Visual Intelligence Data Visualization/Project"
 jupyter notebook "Project_practice file.ipynb"
+```
+
+---
+
+### 🏏 IPL 2025 Analytics Dashboard — Excel Capstone Project 1
+
+> An interactive Excel dashboard analyzing IPL match statistics, team performance, venue trends, and player insights.
+
+**Features:**
+- 📊 **Interactive KPI Cards**: Real-time totals for matches played, runs scored, wickets taken, and venue counts
+- 🎯 **Team & Player Performance Metrics**: Deep-dive analysis into team win percentages and top performers
+- 🎛️ **Dynamic Slicers & Filters**: Interactive filtering by season, team, match type, and venue
+- 📈 **Pivot Tables & Visual Charts**: Custom Excel charts summarizing match outcomes and scoring distributions
+
+```bash
+cd "5 Excel Intelligence/Project1/IPL Dashboard"
+# Open IPL Dashboard.xlsx in Microsoft Excel
+```
+
+---
+
+### 👥 HR Attrition Analytics Dashboard — Excel Capstone Project 2
+
+> A comprehensive HR Analytics dashboard designed to uncover employee turnover patterns, demographic drivers, and retention insights using Excel.
+
+**Features:**
+- 📉 **Attrition Rate & KPI Tracking**: Total employees, active count, attrition count, and overall attrition rate %
+- 🏬 **Department & Role Breakdown**: Turnover distribution across Sales, R&D, HR, and job positions
+- 🎂 **Demographic & Tenure Drivers**: Attrition breakdown by age groups, education field, and years at company
+- 💼 **Satisfaction & Salary Analysis**: Correlation between job satisfaction levels, income slabs, and employee departure
+
+```bash
+cd "5 Excel Intelligence/Project2/HR Attrition"
+# Open HR Attrition project.xlsx in Microsoft Excel
 ```
 
 ---
