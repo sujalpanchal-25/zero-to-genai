@@ -1,0 +1,211 @@
+OrderID,OrderDate,Region,Category,SubCategory,Product,Quantity,UnitPrice,Sales
+1016,2025-01-02,East,Technology,Accessories,USB-C Hub,1,206.26,206.26
+1049,2025-01-02,North,Furniture,Chairs,Ergo Office Chair,5,196.78,983.9
+1063,2025-01-02,North,Furniture,Bookcases,Oak Bookcase,7,707.51,4952.57
+1030,2025-01-03,North,Furniture,Chairs,Ergo Office Chair,4,748.14,2992.56
+1051,2025-01-03,North,Furniture,Bookcases,Oak Bookcase,2,725.87,1451.74
+1040,2025-01-04,West,Furniture,Tables,Conference Table,7,173.99,1217.93
+1060,2025-01-04,South,Technology,Phones,Smartphone X,3,235.83,707.49
+1065,2025-01-04,North,Technology,Machines,Laser Printer,7,483.36,3383.52
+1068,2025-01-04,East,Office Supplies,Binders,Ring Binder Pack,11,223.36,2456.96
+1006,2025-01-05,South,Furniture,Bookcases,Oak Bookcase,7,299.11,2093.77
+1057,2025-01-05,East,Furniture,Bookcases,Oak Bookcase,4,437.41,1749.64
+1025,2025-01-06,West,Technology,Accessories,USB-C Hub,2,260.07,520.14
+1032,2025-01-06,East,Furniture,Bookcases,Oak Bookcase,8,805.62,6444.96
+1064,2025-01-06,West,Office Supplies,Binders,Ring Binder Pack,11,833.13,9164.43
+1003,2025-01-07,South,Technology,Accessories,USB-C Hub,1,39.88,39.88
+1001,2025-01-08,South,Technology,Phones,Smartphone X,1,634.19,634.19
+1014,2025-01-08,South,Technology,Machines,Laser Printer,3,461.01,1383.03
+1035,2025-01-08,North,Office Supplies,Storage,Storage Box Set,8,116.04,928.32
+1037,2025-01-08,North,Furniture,Chairs,Ergo Office Chair,12,541.97,6503.64
+1054,2025-01-08,East,Office Supplies,Binders,Ring Binder Pack,11,613.02,6743.22
+1069,2025-01-08,South,Technology,Accessories,USB-C Hub,10,640.81,6408.1
+1038,2025-01-09,West,Furniture,Tables,Conference Table,2,444.32,888.64
+1062,2025-01-09,North,Technology,Machines,Laser Printer,5,437.02,2185.1
+1061,2025-01-11,South,Office Supplies,Paper,A4 Paper Ream,10,190.88,1908.8
+1070,2025-01-11,West,Furniture,Tables,Conference Table,1,164.77,164.77
+1007,2025-01-12,East,Office Supplies,Binders,Ring Binder Pack,2,332.24,664.48
+1012,2025-01-12,South,Office Supplies,Storage,Storage Box Set,6,150.82,904.92
+1029,2025-01-12,East,Technology,Accessories,USB-C Hub,8,31.26,250.08
+1066,2025-01-12,South,Technology,Phones,Smartphone X,9,45.08,405.72
+1011,2025-01-13,East,Office Supplies,Binders,Ring Binder Pack,4,738.51,2954.04
+1020,2025-01-13,East,Technology,Machines,Laser Printer,7,764.68,5352.76
+1042,2025-01-13,East,Technology,Machines,Laser Printer,11,97.18,1068.98
+1047,2025-01-13,East,Office Supplies,Binders,Ring Binder Pack,3,331.44,994.32
+1053,2025-01-14,East,Technology,Machines,Laser Printer,1,532.18,532.18
+1023,2025-01-15,East,Technology,Phones,Smartphone X,7,333.65,2335.55
+1043,2025-01-15,South,Furniture,Chairs,Ergo Office Chair,4,173.82,695.28
+1055,2025-01-15,East,Office Supplies,Binders,Ring Binder Pack,11,553.99,6093.89
+1058,2025-01-15,East,Furniture,Chairs,Ergo Office Chair,6,252.96,1517.76
+1046,2025-01-16,South,Furniture,Chairs,Ergo Office Chair,3,354.36,1063.08
+1050,2025-01-16,South,Technology,Accessories,USB-C Hub,1,56.87,56.87
+1026,2025-01-17,South,Furniture,Bookcases,Oak Bookcase,12,234.93,2819.16
+1002,2025-01-18,North,Furniture,Bookcases,Oak Bookcase,2,580.04,1160.08
+1008,2025-01-18,North,Technology,Accessories,USB-C Hub,1,624.33,624.33
+1019,2025-01-18,East,Furniture,Tables,Conference Table,3,220.93,662.79
+1031,2025-01-18,South,Technology,Accessories,USB-C Hub,2,831.62,1663.24
+1033,2025-01-18,South,Technology,Machines,Laser Printer,7,820.24,5741.68
+1045,2025-01-18,North,Office Supplies,Storage,Storage Box Set,2,57.24,114.48
+1017,2025-01-19,East,Office Supplies,Paper,A4 Paper Ream,2,191.17,382.34
+1036,2025-01-19,South,Office Supplies,Binders,Ring Binder Pack,10,477.52,4775.2
+1039,2025-01-19,West,Furniture,Bookcases,Oak Bookcase,3,619.0,1857.0
+1052,2025-01-19,South,Technology,Phones,Smartphone X,7,115.11,805.77
+1056,2025-01-19,North,Furniture,Chairs,Ergo Office Chair,8,533.67,4269.36
+1009,2025-01-21,East,Office Supplies,Binders,Ring Binder Pack,9,259.8,2338.2
+1013,2025-01-21,North,Technology,Accessories,USB-C Hub,12,797.11,9565.32
+1015,2025-01-21,South,Office Supplies,Paper,A4 Paper Ream,5,841.25,4206.25
+1018,2025-01-21,West,Furniture,Bookcases,Oak Bookcase,8,345.35,2762.8
+1027,2025-01-21,South,Technology,Phones,Smartphone X,11,264.2,2906.2
+1034,2025-01-21,East,Technology,Accessories,USB-C Hub,7,845.95,5921.65
+1010,2025-01-22,South,Technology,Phones,Smartphone X,12,73.08,876.96
+1022,2025-01-22,West,Furniture,Chairs,Ergo Office Chair,11,148.58,1634.38
+1024,2025-01-22,East,Technology,Phones,Smartphone X,11,616.8,6784.8
+1004,2025-01-23,West,Technology,Machines,Laser Printer,1,483.64,483.64
+1041,2025-01-24,North,Office Supplies,Paper,A4 Paper Ream,7,404.97,2834.79
+1048,2025-01-24,West,Office Supplies,Paper,A4 Paper Ream,7,596.65,4176.55
+1021,2025-01-25,North,Furniture,Chairs,Ergo Office Chair,9,427.09,3843.81
+1028,2025-01-25,North,Furniture,Tables,Conference Table,3,465.38,1396.14
+1067,2025-01-26,North,Office Supplies,Binders,Ring Binder Pack,1,272.4,272.4
+1059,2025-01-27,East,Technology,Machines,Laser Printer,9,21.53,193.77
+1005,2025-01-28,North,Furniture,Tables,Conference Table,10,247.29,2472.9
+1044,2025-01-28,North,Office Supplies,Binders,Ring Binder Pack,5,401.29,2006.45
+1105,2025-02-01,West,Office Supplies,Binders,Ring Binder Pack,5,378.92,1894.6
+1137,2025-02-02,North,Furniture,Bookcases,Oak Bookcase,9,120.7,1086.3
+1093,2025-02-04,West,Furniture,Bookcases,Oak Bookcase,4,781.09,3124.36
+1115,2025-02-06,North,Office Supplies,Storage,Storage Box Set,5,655.36,3276.8
+1136,2025-02-06,East,Furniture,Chairs,Ergo Office Chair,5,204.95,1024.75
+1101,2025-02-07,West,Office Supplies,Storage,Storage Box Set,8,362.17,2897.36
+1097,2025-02-08,East,Technology,Accessories,USB-C Hub,9,419.64,3776.76
+1099,2025-02-08,West,Office Supplies,Storage,Storage Box Set,2,130.54,261.08
+1076,2025-02-09,North,Furniture,Chairs,Ergo Office Chair,5,164.1,820.5
+1098,2025-02-09,East,Office Supplies,Binders,Ring Binder Pack,12,253.58,3042.96
+1127,2025-02-09,North,Office Supplies,Paper,A4 Paper Ream,10,600.49,6004.9
+1082,2025-02-10,South,Technology,Accessories,USB-C Hub,6,351.0,2106.0
+1116,2025-02-10,West,Furniture,Tables,Conference Table,2,498.2,996.4
+1080,2025-02-11,East,Office Supplies,Paper,A4 Paper Ream,2,807.31,1614.62
+1125,2025-02-11,North,Office Supplies,Storage,Storage Box Set,10,572.94,5729.4
+1126,2025-02-12,East,Office Supplies,Paper,A4 Paper Ream,3,422.1,1266.3
+1103,2025-02-13,West,Office Supplies,Binders,Ring Binder Pack,6,264.34,1586.04
+1107,2025-02-13,North,Office Supplies,Binders,Ring Binder Pack,10,460.99,4609.9
+1130,2025-02-13,South,Office Supplies,Binders,Ring Binder Pack,2,260.69,521.38
+1095,2025-02-14,West,Office Supplies,Storage,Storage Box Set,12,759.84,9118.08
+1100,2025-02-14,West,Technology,Phones,Smartphone X,12,193.65,2323.8
+1128,2025-02-14,West,Technology,Phones,Smartphone X,2,216.53,433.06
+1108,2025-02-15,South,Furniture,Bookcases,Oak Bookcase,7,128.31,898.17
+1109,2025-02-15,East,Furniture,Tables,Conference Table,7,288.34,2018.38
+1124,2025-02-15,South,Office Supplies,Binders,Ring Binder Pack,2,247.91,495.82
+1089,2025-02-16,North,Furniture,Chairs,Ergo Office Chair,1,219.44,219.44
+1139,2025-02-16,West,Furniture,Chairs,Ergo Office Chair,10,252.42,2524.2
+1079,2025-02-17,South,Office Supplies,Binders,Ring Binder Pack,12,379.11,4549.32
+1081,2025-02-17,East,Technology,Phones,Smartphone X,12,766.54,9198.48
+1086,2025-02-17,West,Office Supplies,Paper,A4 Paper Ream,8,579.15,4633.2
+1087,2025-02-17,East,Technology,Phones,Smartphone X,11,85.8,943.8
+1122,2025-02-17,East,Technology,Phones,Smartphone X,7,162.07,1134.49
+1094,2025-02-18,East,Furniture,Tables,Conference Table,11,458.5,5043.5
+1111,2025-02-18,North,Office Supplies,Binders,Ring Binder Pack,8,31.19,249.52
+1131,2025-02-18,East,Office Supplies,Storage,Storage Box Set,10,323.13,3231.3
+1078,2025-02-19,South,Office Supplies,Storage,Storage Box Set,9,111.56,1004.04
+1085,2025-02-19,East,Office Supplies,Paper,A4 Paper Ream,4,373.96,1495.84
+1114,2025-02-19,South,Furniture,Chairs,Ergo Office Chair,8,574.0,4592.0
+1104,2025-02-20,South,Technology,Machines,Laser Printer,12,471.02,5652.24
+1113,2025-02-20,South,Furniture,Chairs,Ergo Office Chair,4,715.76,2863.04
+1118,2025-02-20,North,Furniture,Bookcases,Oak Bookcase,5,724.99,3624.95
+1112,2025-02-21,North,Office Supplies,Binders,Ring Binder Pack,11,72.3,795.3
+1121,2025-02-21,West,Office Supplies,Binders,Ring Binder Pack,7,817.26,5720.82
+1138,2025-02-21,West,Technology,Accessories,USB-C Hub,12,803.31,9639.72
+1073,2025-02-22,South,Office Supplies,Paper,A4 Paper Ream,4,201.14,804.56
+1083,2025-02-22,South,Furniture,Tables,Conference Table,11,800.2,8802.2
+1119,2025-02-22,East,Technology,Phones,Smartphone X,6,459.84,2759.04
+1090,2025-02-23,West,Office Supplies,Paper,A4 Paper Ream,11,495.69,5452.59
+1091,2025-02-23,North,Office Supplies,Paper,A4 Paper Ream,4,138.22,552.88
+1092,2025-02-23,West,Furniture,Tables,Conference Table,4,161.87,647.48
+1117,2025-02-23,South,Office Supplies,Storage,Storage Box Set,4,78.46,313.84
+1129,2025-02-23,West,Technology,Phones,Smartphone X,12,412.54,4950.48
+1132,2025-02-23,West,Office Supplies,Storage,Storage Box Set,9,291.21,2620.89
+1106,2025-02-24,South,Office Supplies,Storage,Storage Box Set,11,681.45,7495.95
+1133,2025-02-24,South,Office Supplies,Paper,A4 Paper Ream,5,207.5,1037.5
+1135,2025-02-24,East,Furniture,Chairs,Ergo Office Chair,12,419.31,5031.72
+1074,2025-02-25,East,Office Supplies,Paper,A4 Paper Ream,5,736.73,3683.65
+1096,2025-02-25,South,Furniture,Bookcases,Oak Bookcase,8,390.81,3126.48
+1102,2025-02-25,West,Office Supplies,Storage,Storage Box Set,12,31.31,375.72
+1134,2025-02-25,South,Office Supplies,Binders,Ring Binder Pack,12,462.45,5549.4
+1071,2025-02-26,North,Technology,Machines,Laser Printer,4,237.78,951.12
+1077,2025-02-26,East,Furniture,Bookcases,Oak Bookcase,7,303.65,2125.55
+1088,2025-02-26,South,Furniture,Chairs,Ergo Office Chair,11,274.2,3016.2
+1072,2025-02-27,West,Office Supplies,Binders,Ring Binder Pack,8,200.73,1605.84
+1075,2025-02-27,East,Office Supplies,Storage,Storage Box Set,9,348.73,3138.57
+1084,2025-02-27,North,Technology,Machines,Laser Printer,5,354.07,1770.35
+1110,2025-02-27,West,Office Supplies,Paper,A4 Paper Ream,5,642.93,3214.65
+1123,2025-02-27,East,Technology,Machines,Laser Printer,8,403.17,3225.36
+1120,2025-02-28,West,Furniture,Bookcases,Oak Bookcase,11,299.93,3299.23
+1140,2025-02-28,West,Office Supplies,Binders,Ring Binder Pack,1,225.82,225.82
+1147,2025-03-01,West,Furniture,Chairs,Ergo Office Chair,9,77.68,699.12
+1155,2025-03-01,North,Office Supplies,Storage,Storage Box Set,6,519.1,3114.6
+1156,2025-03-01,East,Furniture,Bookcases,Oak Bookcase,10,505.25,5052.5
+1162,2025-03-01,West,Furniture,Tables,Conference Table,9,703.81,6334.29
+1165,2025-03-01,South,Office Supplies,Paper,A4 Paper Ream,12,419.73,5036.76
+1184,2025-03-01,North,Office Supplies,Binders,Ring Binder Pack,12,265.05,3180.6
+1148,2025-03-02,South,Office Supplies,Storage,Storage Box Set,10,407.38,4073.8
+1142,2025-03-03,South,Furniture,Chairs,Ergo Office Chair,10,807.52,8075.2
+1146,2025-03-03,South,Furniture,Bookcases,Oak Bookcase,4,235.98,943.92
+1154,2025-03-03,North,Office Supplies,Storage,Storage Box Set,9,427.32,3845.88
+1167,2025-03-04,South,Furniture,Chairs,Ergo Office Chair,2,400.31,800.62
+1177,2025-03-04,West,Furniture,Bookcases,Oak Bookcase,10,292.22,2922.2
+1183,2025-03-04,North,Furniture,Bookcases,Oak Bookcase,2,377.37,754.74
+1205,2025-03-04,West,Furniture,Tables,Conference Table,1,235.82,235.82
+1151,2025-03-05,East,Office Supplies,Binders,Ring Binder Pack,9,202.72,1824.48
+1169,2025-03-05,West,Office Supplies,Paper,A4 Paper Ream,4,396.42,1585.68
+1170,2025-03-05,North,Furniture,Bookcases,Oak Bookcase,9,638.15,5743.35
+1178,2025-03-05,West,Furniture,Bookcases,Oak Bookcase,8,27.82,222.56
+1198,2025-03-05,North,Technology,Machines,Laser Printer,11,583.51,6418.61
+1174,2025-03-08,West,Office Supplies,Paper,A4 Paper Ream,4,833.95,3335.8
+1208,2025-03-08,North,Technology,Machines,Laser Printer,6,779.24,4675.44
+1161,2025-03-09,East,Technology,Phones,Smartphone X,8,88.53,708.24
+1168,2025-03-09,West,Office Supplies,Storage,Storage Box Set,5,439.91,2199.55
+1179,2025-03-09,East,Technology,Phones,Smartphone X,2,407.02,814.04
+1202,2025-03-09,West,Technology,Machines,Laser Printer,5,708.44,3542.2
+1144,2025-03-10,West,Technology,Accessories,USB-C Hub,8,773.6,6188.8
+1152,2025-03-10,East,Furniture,Chairs,Ergo Office Chair,1,153.55,153.55
+1160,2025-03-10,West,Furniture,Tables,Conference Table,7,594.22,4159.54
+1196,2025-03-10,South,Technology,Machines,Laser Printer,8,710.42,5683.36
+1200,2025-03-10,East,Technology,Accessories,USB-C Hub,12,124.73,1496.76
+1159,2025-03-11,North,Furniture,Tables,Conference Table,6,355.97,2135.82
+1173,2025-03-11,West,Furniture,Tables,Conference Table,9,419.43,3774.87
+1187,2025-03-13,South,Furniture,Chairs,Ergo Office Chair,2,523.93,1047.86
+1204,2025-03-13,East,Furniture,Chairs,Ergo Office Chair,11,619.72,6816.92
+1185,2025-03-14,South,Office Supplies,Binders,Ring Binder Pack,5,314.32,1571.6
+1209,2025-03-14,North,Technology,Accessories,USB-C Hub,12,267.33,3207.96
+1149,2025-03-15,North,Office Supplies,Storage,Storage Box Set,5,601.99,3009.95
+1190,2025-03-15,East,Office Supplies,Storage,Storage Box Set,9,146.91,1322.19
+1199,2025-03-15,North,Technology,Machines,Laser Printer,1,272.96,272.96
+1203,2025-03-15,North,Office Supplies,Storage,Storage Box Set,6,686.53,4119.18
+1175,2025-03-16,West,Furniture,Tables,Conference Table,1,280.68,280.68
+1176,2025-03-16,North,Office Supplies,Storage,Storage Box Set,11,833.98,9173.78
+1207,2025-03-16,North,Technology,Accessories,USB-C Hub,2,578.49,1156.98
+1210,2025-03-16,North,Furniture,Chairs,Ergo Office Chair,1,269.14,269.14
+1171,2025-03-17,East,Office Supplies,Paper,A4 Paper Ream,6,795.1,4770.6
+1164,2025-03-18,South,Technology,Accessories,USB-C Hub,1,184.97,184.97
+1166,2025-03-18,West,Technology,Phones,Smartphone X,5,474.95,2374.75
+1141,2025-03-19,North,Furniture,Chairs,Ergo Office Chair,7,425.61,2979.27
+1172,2025-03-19,West,Furniture,Tables,Conference Table,12,264.29,3171.48
+1193,2025-03-19,East,Furniture,Chairs,Ergo Office Chair,7,492.56,3447.92
+1206,2025-03-19,West,Office Supplies,Storage,Storage Box Set,12,576.4,6916.8
+1163,2025-03-20,West,Office Supplies,Binders,Ring Binder Pack,4,447.9,1791.6
+1197,2025-03-20,East,Technology,Accessories,USB-C Hub,4,546.58,2186.32
+1150,2025-03-21,South,Technology,Phones,Smartphone X,5,672.84,3364.2
+1157,2025-03-21,West,Technology,Phones,Smartphone X,3,407.87,1223.61
+1181,2025-03-21,West,Technology,Machines,Laser Printer,7,811.71,5681.97
+1182,2025-03-21,East,Technology,Phones,Smartphone X,10,72.13,721.3
+1188,2025-03-21,East,Office Supplies,Storage,Storage Box Set,3,208.88,626.64
+1194,2025-03-22,West,Technology,Accessories,USB-C Hub,1,831.58,831.58
+1153,2025-03-23,West,Office Supplies,Binders,Ring Binder Pack,8,590.05,4720.4
+1191,2025-03-23,East,Technology,Accessories,USB-C Hub,11,818.29,9001.19
+1145,2025-03-24,North,Office Supplies,Storage,Storage Box Set,10,65.29,652.9
+1195,2025-03-25,North,Office Supplies,Binders,Ring Binder Pack,10,737.33,7373.3
+1143,2025-03-26,South,Furniture,Bookcases,Oak Bookcase,7,521.28,3648.96
+1186,2025-03-26,South,Furniture,Bookcases,Oak Bookcase,7,487.55,3412.85
+1189,2025-03-26,West,Office Supplies,Paper,A4 Paper Ream,11,22.85,251.35
+1201,2025-03-26,East,Technology,Accessories,USB-C Hub,3,182.66,547.98
+1158,2025-03-27,West,Office Supplies,Binders,Ring Binder Pack,10,378.96,3789.6
+1180,2025-03-28,East,Technology,Machines,Laser Printer,7,557.61,3903.27
+1192,2025-03-28,West,Office Supplies,Paper,A4 Paper Ream,4,849.48,3397.92
