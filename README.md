@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Power+BI+Prodigy+70%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -16,6 +16,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://microsoft.com/excel)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-6C63FF?style=for-the-badge&logo=gitbook&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
@@ -36,7 +37,7 @@
 |---|---|
 | **Repo Name** | `zero-to-genai` |
 | **Short Description** | 🧠 My hands-on journey through Data Science, Analytics & GenAI — Python exercises, projects & more. |
-| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `excel` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
+| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `excel` `power-bi` `power-query` `dax` `data-modeling` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
 
 ---
 
@@ -100,12 +101,35 @@
 │   └── 📁 Project/                               ← Visual Intelligence Capstone Project
 │       └── 🍽️ Project_practice file.ipynb        ← Restaurant Tips Analytics (Seaborn & Matplotlib)
 │
-└── 📑 5 Excel Intelligence/                       ← Spreadsheet Analytics & Excel Intelligence
-    ├── 📚 Class 2 – 45/                           ← Hands-on Excel Practice Workbooks (Classes 2 to 45)
-    ├── 🏏 Project1/                              ← Excel Capstone Project 1
-    │   └── 📁 IPL Dashboard/                     ← IPL 2025 Analytics & Interactive Dashboard (.xlsx)
-    └── 👥 Project2/                              ← Excel Capstone Project 2
-        └── 📁 HR Attrition/                      ← HR Attrition Analytics & Interactive Dashboard (.xlsx)
+├── 📑 5 Excel Intelligence/                       ← Spreadsheet Analytics & Excel Intelligence
+│   ├── 📚 Class 2 – 45/                           ← Hands-on Excel Practice Workbooks (Classes 2 to 45)
+│   ├── 🏏 Project1/                              ← Excel Capstone Project 1
+│   │   └── 📁 IPL Dashboard/                     ← IPL 2025 Analytics & Interactive Dashboard (.xlsx)
+│   ├── 👥 Project2/                              ← Excel Capstone Project 2
+│   │   └── 📁 HR Attrition/                      ← HR Attrition Analytics & Interactive Dashboard (.xlsx)
+│   └── 🛒 Project3 (Extra)/                      ← Excel Capstone Project 3
+│       └── 📁 Sales Dashboard/                   ← Superstore Sales Analytics & Interactive Dashboard (.xlsx)
+│
+└── 🟡 6 Power BI Prodigy/                         ← Business Intelligence, Data Modeling & Interactive Dashboards (70% Complete)
+    ├── 📥 Phase 2 (Data Acquisition & Preparation)/
+    │   └── 📁 Class 1/                           ← Power Query ETL, Transformations & Multi-Source Consolidation
+    │       ├── 📊 ETL Process.xlsx               ← Ingestion & Transformation Dataset
+    │       ├── 📑 Transform Pivot, Unpivot, Group.xlsx ← Pivot, Unpivot & Grouping Practice
+    │       ├── 📄 Transform.csv                  ← Raw CSV Source Data
+    │       ├── 📂 Sales/                         ← Multi-Year Sales Folder (Sales_2023, Sales_2024, Sales_2025)
+    │       └── 📈 Practice_File_1.pbix           ← Power BI Ingestion & ETL File (.pbix)
+    │
+    ├── 📐 Phase 3 Data Modeling & Relationships/
+    │   └── 📁 Class 1/                           ← Star Schema, Cardinality & Relationship Management
+    │       ├── 📊 ETL Process.xlsx               ← Dimensional & Fact Data Tables
+    │       ├── 📂 Sales/                         ← Historical Sales Records
+    │       └── 📈 Practice_File_1.pbix           ← Relational Data Model (.pbix)
+    │
+    └── 📊 Phase 4 Report Design & Visualization/
+        └── 📁 Class 1/                           ← Interactive Dashboard, KPI Cards & Visual Canvases
+            ├── 📊 ETL Process.xlsx               ← Report Source Data
+            ├── 📂 Sales/                         ← Multi-Year Sales Datasets
+            └── 📈 Practice_File_1.pbix           ← Interactive Power BI Report (.pbix)
 ```
 
 ---
@@ -171,12 +195,28 @@
 - ✅ Power Query ETL, Dynamic Arrays & Advanced Analytics (Classes 40–45)
 - ✅ Capstone Project 1: IPL 2025 Analytics Dashboard (`IPL Dashboard.xlsx`)
 - ✅ Capstone Project 2: HR Attrition Analytics Dashboard (`HR Attrition project.xlsx`)
+- ✅ Capstone Project 3 (Extra): Superstore Sales Analytics Dashboard (`Sale_Dashboard.xlsx`)
+
+### 🟡 Power BI Prodigy — 🔄 70% Complete!
+
+- ✅ **Phase 2: Data Acquisition & Preparation (Power Query ETL)**:
+  - Multi-source data connectivity (Excel, CSV, Folder queries)
+  - Multi-year sales automated consolidation (`Sales_2023`, `Sales_2024`, `Sales_2025`)
+  - Advanced transformations: Pivoting, Unpivoting, Grouping, Column Splitting & Cleansing
+- ✅ **Phase 3: Data Modeling & Relationships**:
+  - Star Schema & Snowflake schema architectural modeling
+  - Relationship management (1:*, *:1, 1:1), primary & foreign keys
+  - Active vs. Inactive relationships, Cross-Filter Direction optimization
+- ✅ **Phase 4: Report Design & Visualization**:
+  - Interactive Canvas Design & visual hierarchy
+  - Executive KPI Cards, Bar/Line combo charts, Treemaps & Matrix visuals
+  - Slicers, interactive cross-filtering, drill-throughs & tooltips
+  - End-to-end `.pbix` project implementations
 
   </td>
   <td valign="top" width="50%">
 
 ### 🤖 Upcoming Modules
-- ⏳ Power BI Prodigy
 - ⏳ SQL Intelligence
 - ⏳ Machine Learning Unleashed
 - ⏳ Deep Learning Demystified
@@ -200,7 +240,7 @@
 | 🐼 **Pandas Playground** | `████████████████████` 100% | ✅ Completed |
 | 📊 **Visual Intelligence: Data Visualization** | `████████████████████` 100% | ✅ Completed |
 | 📑 **Excel Intelligence** | `████████████████████` 100% | ✅ Completed |
-| 🟡 **Power BI Prodigy** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🟡 **Power BI Prodigy** | `██████████████░░░░░░` 70% | 🔄 In Progress |
 | 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🤖 **Machine Learning Unleashed** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🧠 **Deep Learning Demystified** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -408,6 +448,45 @@ cd "5 Excel Intelligence/Project2/HR Attrition"
 
 ---
 
+### 🏬 Superstore Sales Analytics Dashboard — Excel Capstone Project 3 (Extra)
+
+> An executive sales analytics dashboard built on the Superstore dataset evaluating regional revenues, product performance, and customer segmentation.
+
+**Features:**
+- 💰 **Executive Revenue & Profit KPIs**: High-level tracking of total revenue, profit margins, and order volumes
+- 📦 **Product Category & Sub-Category Matrix**: Breakdown of sales leaders and underperforming lines
+- 🗺️ **Regional Performance Analysis**: Geographic distribution of orders, shipment mode efficiency, and profit ratios
+- 🎛️ **Interactive Pivot Dashboards**: Dynamic slicer controls for real-time slicing by region, segment, and timeline
+
+```bash
+cd "5 Excel Intelligence/Project3 (Extra)/Sales Dashboard"
+# Open Sale_Dashboard.xlsx in Microsoft Excel
+```
+
+---
+
+### 🟡 Power BI Prodigy: Business Intelligence & Multi-Phase Analytics Suite
+
+> An end-to-end Power BI implementation covering the full BI lifecycle: Data Acquisition & Power Query ETL, Star Schema Relationship Modeling, and Interactive Executive Dashboards (`.pbix`).
+
+**Features:**
+- 📥 **Phase 2 — Automated Power Query ETL**:
+  - Ingesting and consolidating multi-year transaction files (`Sales_2023.xlsx`, `Sales_2024.xlsx`, `Sales_2025.xlsx`) from folder connectors
+  - Data cleansing, type conversions, table pivoting/unpivoting, and aggregation pipelines (`ETL Process.xlsx`, `Transform.csv`)
+- 📐 **Phase 3 — Data Modeling & Relationship Architecture**:
+  - Star schema design linking dimensional tables to core sales facts
+  - Primary key / Foreign key enforcement, 1-to-many (`1:*`) relationships, and cross-filter optimization
+- 📊 **Phase 4 — Executive Report Design & Interactive Visuals**:
+  - Modern dashboard canvas layout with dynamic summary cards, trend lines, and breakdown charts
+  - Cross-filtering, drill-through capabilities, slicers, and structured `.pbix` analytics models
+
+```bash
+cd "6 Power BI Prodigy/Phase 4 Report Design & Visualization/Class 1"
+# Open Practice_File_1.pbix in Microsoft Power BI Desktop
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -418,6 +497,7 @@ cd "5 Excel Intelligence/Project2/HR Attrition"
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-UI%20Framework-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
