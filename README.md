@@ -465,28 +465,6 @@ cd "5 Excel Intelligence/Project3 (Extra)/Sales Dashboard"
 
 ---
 
-### 🟡 Power BI Prodigy: Business Intelligence & Multi-Phase Analytics Suite
-
-> An end-to-end Power BI implementation covering the full BI lifecycle: Data Acquisition & Power Query ETL, Star Schema Relationship Modeling, and Interactive Executive Dashboards (`.pbix`).
-
-**Features:**
-- 📥 **Phase 2 — Automated Power Query ETL**:
-  - Ingesting and consolidating multi-year transaction files (`Sales_2023.xlsx`, `Sales_2024.xlsx`, `Sales_2025.xlsx`) from folder connectors
-  - Data cleansing, type conversions, table pivoting/unpivoting, and aggregation pipelines (`ETL Process.xlsx`, `Transform.csv`)
-- 📐 **Phase 3 — Data Modeling & Relationship Architecture**:
-  - Star schema design linking dimensional tables to core sales facts
-  - Primary key / Foreign key enforcement, 1-to-many (`1:*`) relationships, and cross-filter optimization
-- 📊 **Phase 4 — Executive Report Design & Interactive Visuals**:
-  - Modern dashboard canvas layout with dynamic summary cards, trend lines, and breakdown charts
-  - Cross-filtering, drill-through capabilities, slicers, and structured `.pbix` analytics models
-
-```bash
-cd "6 Power BI Prodigy/Phase 4 Report Design & Visualization/Class 1"
-# Open Practice_File_1.pbix in Microsoft Power BI Desktop
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
