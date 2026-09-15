@@ -1,0 +1,11 @@
+Skill_ID,Skill_Name
+S001,Python
+S002,TensorFlow
+S003,PyTorch
+S004,SQL
+S005,Machine Learning
+S006,Deep Learning
+S007,Data Visualization
+S008,NLP
+S009,Computer Vision
+S010,Cloud Computing
