@@ -1,0 +1,6 @@
+Company_ID,Company_Name,Company_Size,Industry,Rating
+C001,OpenAI,Large,AI Research,4.8
+C002,Google DeepMind,Large,AI/ML,4.9
+C003,HuggingFace,Medium,NLP,4.7
+C004,NVIDIA,Large,Hardware,4.6
+C005,DataCamp,Medium,EdTech,4.5
