@@ -1,0 +1,11 @@
+Job_ID,Job_Title,Experience_Level,Employment_Type,Remote_Ratio,Salary_USD,Posted_Date,Company_ID,Location_ID
+J001,Data Scientist,Mid,Full-time,100,98000,2024-08-12,C001,L001
+J002,ML Engineer,Senior,Full-time,60,125000,2024-07-05,C002,L002
+J003,AI Researcher,Entry,Contract,0,72000,2024-09-10,C003,L003
+J004,NLP Engineer,Mid,Full-time,80,110000,2024-06-18,C004,L001
+J005,Data Analyst,Entry,Internship,40,45000,2024-09-28,C005,L002
+J006,Computer Vision Engineer,Senior,Full-time,50,118000,2024-05-12,C002,L004
+J007,AI Product Manager,Mid,Full-time,70,107000,2024-08-01,C001,L005
+J008,Machine Learning Intern,Entry,Internship,90,30000,2024-09-15,C003,L003
+J009,Deep Learning Specialist,Senior,Full-time,40,132000,2024-07-20,C004,L001
+J010,Data Engineer,Mid,Full-time,60,97000,2024-06-22,C005,L002
