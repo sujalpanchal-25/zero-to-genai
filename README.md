@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Power+BI+Prodigy+80%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Power+BI+Prodigy+90%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -110,7 +110,7 @@
 │   └── 🛒 Project3 (Extra)/                      ← Excel Capstone Project 3
 │       └── 📁 Sales Dashboard/                   ← Superstore Sales Analytics & Interactive Dashboard (.xlsx)
 │
-└── 🟡 6 Power BI Prodigy/                         ← Business Intelligence, Data Modeling & Interactive Dashboards (80% Complete)
+└── 🟡 6 Power BI Prodigy/                         ← Business Intelligence, Data Modeling & Interactive Dashboards (90% Complete)
     ├── 📥 Phase 2 (Data Acquisition & Preparation)/
     │   └── 📁 Class 1/                           ← Power Query ETL, Transformations & Multi-Source Consolidation
     │       ├── 📊 ETL Process.xlsx               ← Ingestion & Transformation Dataset
@@ -137,13 +137,14 @@
     │       ├── 📂 Sales/                         ← Multi-Year Historical Sales Records
     │       └── 📈 Practice_File_1.pbix           ← Deployed Power BI Project (.pbix)
     │
-    └── 📁 Project 1/                             ← Tech & AI Job Market Analytics Capstone Project
-        └── 📁 Dataset/                           ← Multi-Table Relational Schema
-            ├── 🏢 Companies.csv                  ← Tech & AI Companies, Sizes, Industries & Ratings
-            ├── 💼 Jobs.csv                       ← Job Roles, Experience Levels, Salaries & Dates
-            ├── 🔗 Job_Skills.csv                 ← Bridge Table (Job-Skill Relational Mappings)
-            ├── 📍 Locations.csv                  ← Cities, Countries & Geographic Regions
-            └── 🛠️ Skills.csv                     ← In-Demand Tech & AI Skills Catalog
+    └── 📁 Project 1/                             ← Tech & AI Job Market Analytics Capstone Project (90% Complete)
+        ├── 📁 Dataset/                           ← Multi-Table Relational Schema
+        │   ├── 🏢 Companies.csv                  ← Tech & AI Companies, Sizes, Industries & Ratings
+        │   ├── 💼 Jobs.csv                       ← Job Roles, Experience Levels, Salaries & Dates
+        │   ├── 🔗 Job_Skills.csv                 ← Bridge Table (Job-Skill Relational Mappings)
+        │   ├── 📍 Locations.csv                  ← Cities, Countries & Geographic Regions
+        │   └── 🛠️ Skills.csv                     ← In-Demand Tech & AI Skills Catalog
+        └── 📊 Job_Market_Dashboard.pbix          ← Interactive Job Market Analytics Dashboard (.pbix)
 ```
 
 ---
@@ -211,7 +212,7 @@
 - ✅ Capstone Project 2: HR Attrition Analytics Dashboard (`HR Attrition project.xlsx`)
 - ✅ Capstone Project 3 (Extra): Superstore Sales Analytics Dashboard (`Sale_Dashboard.xlsx`)
 
-### 🟡 Power BI Prodigy — 🔄 80% Complete!
+### 🟡 Power BI Prodigy — 🔄 90% Complete!
 
 - ✅ **Phase 2: Data Acquisition & Preparation (Power Query ETL)**:
   - Multi-source data connectivity (Excel, CSV, Folder queries)
@@ -230,10 +231,11 @@
   - Power BI Service deployment, workspace collaboration & role-based access
   - Scheduled dataset refreshes, gateway configuration & performance monitoring
   - Dashboard publishing, app packaging & stakeholder sharing
-- 🔄 **Project 1: Tech & AI Job Market Analytics**:
+- 🔄 **Project 1: Tech & AI Job Market Analytics (90% Complete)**:
   - Multi-table relational schema & data modeling (`Companies`, `Jobs`, `Job_Skills`, `Locations`, `Skills`)
   - Cross-dimensional analysis of tech salaries, remote work ratios & global hiring demand
   - In-demand AI/ML skills tracking (Python, PyTorch, TensorFlow, SQL, NLP, Computer Vision)
+  - Interactive dashboard implementation (`Job_Market_Dashboard.pbix`) with visual report canvas & slicers
 
   </td>
   <td valign="top" width="50%">
@@ -262,7 +264,7 @@
 | 🐼 **Pandas Playground** | `████████████████████` 100% | ✅ Completed |
 | 📊 **Visual Intelligence: Data Visualization** | `████████████████████` 100% | ✅ Completed |
 | 📑 **Excel Intelligence** | `████████████████████` 100% | ✅ Completed |
-| 🟡 **Power BI Prodigy** | `████████████████░░░░` 80% | 🔄 In Progress |
+| 🟡 **Power BI Prodigy** | `██████████████████░░` 90% | 🔄 In Progress |
 | 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🤖 **Machine Learning Unleashed** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🧠 **Deep Learning Demystified** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -487,20 +489,21 @@ cd "5 Excel Intelligence/Project3 (Extra)/Sales Dashboard"
 
 ---
 
-### 💼 Tech & AI Job Market Analytics — Power BI Capstone Project 1
+### 💼 Tech & AI Job Market Analytics — Power BI Capstone Project 1 (90% Complete)
 
-> A comprehensive multi-table relational Business Intelligence project analyzing global AI & tech job postings, compensation benchmarks, remote work patterns, and in-demand industry skills.
+> A comprehensive multi-table relational Business Intelligence project analyzing global AI & tech job postings, compensation benchmarks, remote work patterns, and in-demand industry skills — built and visualized in `Job_Market_Dashboard.pbix`.
 
 **Features:**
-- 🏢 **Multi-Dimensional Relational Schema**: 5-table relational data model connecting `Companies`, `Jobs`, `Job_Skills`, `Locations`, and `Skills`
+- 🏢 **Multi-Dimensional Relational Schema**: 5-table Star Schema connecting `Companies`, `Jobs`, `Job_Skills`, `Locations`, and `Skills`
 - 💰 **Salary & Compensation Benchmarks**: Tracking salary trends across experience tiers (Entry, Mid, Senior), employment contracts, and company profiles
 - 🌐 **Geographic & Remote Work Distribution**: Global hiring insights across North America, Europe, and Asia with remote ratio analytics
 - 🛠️ **In-Demand AI & Tech Skills**: Frequency analysis of high-demand skills (Python, PyTorch, TensorFlow, SQL, NLP, Computer Vision)
 - 📊 **Industry & Employer Footprint**: Hiring trends and rating distributions across AI Research, EdTech, Hardware, and NLP
+- 📈 **Interactive Power BI Dashboard (`Job_Market_Dashboard.pbix`)**: Rich visual reports, executive KPI cards, skill-to-job mappings, and dynamic multi-slicer filtering (90% complete)
 
 ```bash
 cd "6 Power BI Prodigy/Project 1"
-# Relational datasets available in Dataset/ for data modeling and dashboard reporting
+# Open Job_Market_Dashboard.pbix in Microsoft Power BI Desktop
 ```
 
 ---
