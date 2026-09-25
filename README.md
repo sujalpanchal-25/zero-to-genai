@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Power+BI+Prodigy+90%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Power+BI+Prodigy+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -37,7 +37,7 @@
 |---|---|
 | **Repo Name** | `zero-to-genai` |
 | **Short Description** | 🧠 My hands-on journey through Data Science, Analytics & GenAI — Python exercises, projects & more. |
-| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `excel` `power-bi` `power-query` `dax` `data-modeling` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
+| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `excel` `power-bi` `power-query` `dax` `data-modeling` `star-schema` `business-intelligence` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
 
 ---
 
@@ -110,7 +110,7 @@
 │   └── 🛒 Project3 (Extra)/                      ← Excel Capstone Project 3
 │       └── 📁 Sales Dashboard/                   ← Superstore Sales Analytics & Interactive Dashboard (.xlsx)
 │
-└── 🟡 6 Power BI Prodigy/                         ← Business Intelligence, Data Modeling & Interactive Dashboards (90% Complete)
+└── 🟡 6 Power BI Prodigy/                         ← Business Intelligence, Data Modeling & Interactive Dashboards (100% Complete)
     ├── 📥 Phase 2 (Data Acquisition & Preparation)/
     │   └── 📁 Class 1/                           ← Power Query ETL, Transformations & Multi-Source Consolidation
     │       ├── 📊 ETL Process.xlsx               ← Ingestion & Transformation Dataset
@@ -137,14 +137,25 @@
     │       ├── 📂 Sales/                         ← Multi-Year Historical Sales Records
     │       └── 📈 Practice_File_1.pbix           ← Deployed Power BI Project (.pbix)
     │
-    └── 📁 Project 1/                             ← Tech & AI Job Market Analytics Capstone Project (90% Complete)
-        ├── 📁 Dataset/                           ← Multi-Table Relational Schema
-        │   ├── 🏢 Companies.csv                  ← Tech & AI Companies, Sizes, Industries & Ratings
-        │   ├── 💼 Jobs.csv                       ← Job Roles, Experience Levels, Salaries & Dates
-        │   ├── 🔗 Job_Skills.csv                 ← Bridge Table (Job-Skill Relational Mappings)
-        │   ├── 📍 Locations.csv                  ← Cities, Countries & Geographic Regions
-        │   └── 🛠️ Skills.csv                     ← In-Demand Tech & AI Skills Catalog
-        └── 📊 Job_Market_Dashboard.pbix          ← Interactive Job Market Analytics Dashboard (.pbix)
+    ├── 📁 Project 1/                             ← Tech & AI Job Market Analytics Capstone (100% Complete)
+    │   ├── 📁 Dataset/                           ← Multi-Table Relational Schema
+    │   │   ├── 🏢 Companies.csv                  ← Tech & AI Companies, Sizes, Industries & Ratings
+    │   │   ├── 💼 Jobs.csv                       ← Job Roles, Experience Levels, Salaries & Dates
+    │   │   ├── 🔗 Job_Skills.csv                 ← Bridge Table (Job-Skill Relational Mappings)
+    │   │   ├── 📍 Locations.csv                  ← Cities, Countries & Geographic Regions
+    │   │   └── 🛠️ Skills.csv                     ← In-Demand Tech & AI Skills Catalog
+    │   └── 📊 Job_Market_Dashboard.pbix          ← 4-Page Interactive Job Market Analytics BI Dashboard (.pbix)
+    │
+    └── 📁 Project 2/                             ← Global E-Commerce & Retail Sales Intelligence (100% Complete)
+        ├── 📁 Dataset/                           ← Enterprise Star Schema Data Warehouse (1M+ Records)
+        │   ├── 👤 customer_dim.csv               ← Customer Demographics & Identification
+        │   ├── 🛒 fact_table.csv                 ← 1,000,000+ Transactional Sales & Revenue Fact Records
+        │   ├── 📦 item_dim.csv                   ← Product Catalog, Unit Prices, Suppliers & Origins
+        │   ├── 🏪 store_dim.csv                  ← Store Geographic Hierarchy (Division, District, Upazila)
+        │   ├── 📅 time_dim.csv                   ← Temporal Hierarchy (Date, Hour, Day, Week, Month, Quarter, Year)
+        │   └── 💳 Trans_dim.csv                  ← Payment Channels (Card, Cash, Mobile Banking) & Banks
+        ├── 🖼️ template.png                       ← Custom 16:9 Canvas Layout Template
+        └── 📊 Ecommerce_Dashboard.pbix           ← 2-Page Executive E-Commerce BI Dashboard (17 MB .pbix)
 ```
 
 ---
@@ -212,7 +223,7 @@
 - ✅ Capstone Project 2: HR Attrition Analytics Dashboard (`HR Attrition project.xlsx`)
 - ✅ Capstone Project 3 (Extra): Superstore Sales Analytics Dashboard (`Sale_Dashboard.xlsx`)
 
-### 🟡 Power BI Prodigy — 🔄 90% Complete!
+### 🟡 Power BI Prodigy — ✅ 100% Complete!
 
 - ✅ **Phase 2: Data Acquisition & Preparation (Power Query ETL)**:
   - Multi-source data connectivity (Excel, CSV, Folder queries)
@@ -231,11 +242,17 @@
   - Power BI Service deployment, workspace collaboration & role-based access
   - Scheduled dataset refreshes, gateway configuration & performance monitoring
   - Dashboard publishing, app packaging & stakeholder sharing
-- 🔄 **Project 1: Tech & AI Job Market Analytics (90% Complete)**:
+- ✅ **Project 1: Tech & AI Job Market Analytics (100% Complete)**:
   - Multi-table relational schema & data modeling (`Companies`, `Jobs`, `Job_Skills`, `Locations`, `Skills`)
   - Cross-dimensional analysis of tech salaries, remote work ratios & global hiring demand
   - In-demand AI/ML skills tracking (Python, PyTorch, TensorFlow, SQL, NLP, Computer Vision)
-  - Interactive dashboard implementation (`Job_Market_Dashboard.pbix`) with visual report canvas & slicers
+  - 4-page interactive dashboard (`Job_Market_Dashboard.pbix`): *Overview*, *Location Insights*, *Company & Role Insights*, and *Skill & Hiring Insights*
+- ✅ **Project 2: Global E-Commerce & Retail Sales Intelligence (100% Complete)**:
+  - Enterprise Star Schema data warehouse architecture on 1,000,000+ transactions (`fact_table.csv` + 5 dimension tables)
+  - Advanced DAX measures: `TOTAL SALES`, `TOTAL QUANTITY`, `AVG UNIT PRICE`, `CUSTOMERS`, `ACTIVE CUSTOMERS`, `RETURNING CUSTOMERS %`, `MONTHLY NEW CUSTOMERS`, `Order_Bucket`
+  - Dynamic Year-over-Year (YoY) metrics with conditional formatting rules (`% YOY TOTAL SALES`, `% YOY QTY`, `% YOY CUSTOMERS`, `% YOY AVG UNIT PRICE`)
+  - 2-page production-grade BI report (`Ecommerce_Dashboard.pbix`): *Year Wise Analysis* & *Customer & Order Insight*
+  - Modern UI/UX architecture: Custom 16:9 canvas layout (`template.png`) and collapsible animated Navigation Bar powered by Power BI Bookmarks & Selection Pane
 
   </td>
   <td valign="top" width="50%">
@@ -264,7 +281,7 @@
 | 🐼 **Pandas Playground** | `████████████████████` 100% | ✅ Completed |
 | 📊 **Visual Intelligence: Data Visualization** | `████████████████████` 100% | ✅ Completed |
 | 📑 **Excel Intelligence** | `████████████████████` 100% | ✅ Completed |
-| 🟡 **Power BI Prodigy** | `██████████████████░░` 90% | 🔄 In Progress |
+| 🟡 **Power BI Prodigy** | `████████████████████` 100% | ✅ Completed |
 | 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🤖 **Machine Learning Unleashed** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🧠 **Deep Learning Demystified** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -489,9 +506,9 @@ cd "5 Excel Intelligence/Project3 (Extra)/Sales Dashboard"
 
 ---
 
-### 💼 Tech & AI Job Market Analytics — Power BI Capstone Project 1 (90% Complete)
+### 💼 Tech & AI Job Market Analytics — Power BI Capstone Project 1
 
-> A comprehensive multi-table relational Business Intelligence project analyzing global AI & tech job postings, compensation benchmarks, remote work patterns, and in-demand industry skills — built and visualized in `Job_Market_Dashboard.pbix`.
+> A comprehensive multi-table relational Business Intelligence project analyzing global AI & tech job postings, compensation benchmarks, remote work patterns, and in-demand industry skills — built across 4 interactive report pages in `Job_Market_Dashboard.pbix`.
 
 **Features:**
 - 🏢 **Multi-Dimensional Relational Schema**: 5-table Star Schema connecting `Companies`, `Jobs`, `Job_Skills`, `Locations`, and `Skills`
@@ -499,11 +516,48 @@ cd "5 Excel Intelligence/Project3 (Extra)/Sales Dashboard"
 - 🌐 **Geographic & Remote Work Distribution**: Global hiring insights across North America, Europe, and Asia with remote ratio analytics
 - 🛠️ **In-Demand AI & Tech Skills**: Frequency analysis of high-demand skills (Python, PyTorch, TensorFlow, SQL, NLP, Computer Vision)
 - 📊 **Industry & Employer Footprint**: Hiring trends and rating distributions across AI Research, EdTech, Hardware, and NLP
-- 📈 **Interactive Power BI Dashboard (`Job_Market_Dashboard.pbix`)**: Rich visual reports, executive KPI cards, skill-to-job mappings, and dynamic multi-slicer filtering (90% complete)
+- 📑 **4 Dedicated Interactive Report Pages**:
+  1. 🧭 **Overview**: High-level market KPIs, job distributions, and salary summaries
+  2. 📍 **Location Insights**: Regional demand, city-level hiring, and remote work adoption
+  3. 🏢 **Company and Role Insights**: Employer profiles, company sizes, industry trends, and ratings
+  4. 🎯 **Skill and Hiring Insights**: Top skills in demand, tech stack frequency, and role-to-skill mappings
+- 📈 **Interactive Power BI Dashboard (`Job_Market_Dashboard.pbix`)**: Rich visual reports, executive KPI cards, skill-to-job mappings, and dynamic multi-slicer filtering
 
 ```bash
 cd "6 Power BI Prodigy/Project 1"
 # Open Job_Market_Dashboard.pbix in Microsoft Power BI Desktop
+```
+
+---
+
+### 🛒 Global E-Commerce & Retail Sales Intelligence — Power BI Capstone Project 2
+
+> An enterprise-grade, high-volume Business Intelligence solution built on **1,000,000+ transactional sales records** using a 6-table Star Schema, custom UI/UX design canvas, and advanced DAX analytics — fully implemented across 2 interactive report pages in `Ecommerce_Dashboard.pbix` (17 MB).
+
+**Features:**
+- 🏛️ **Enterprise Star Schema Architecture**:
+  - 🛒 `fact_table.csv`: 1,000,000+ transactional sales records tracking quantities, unit prices, and total revenues
+  - 👤 `customer_dim.csv`: Customer identification, profiles, and contact registries
+  - 📦 `item_dim.csv`: Product catalog, categories, supplier profiles, and manufacturing countries
+  - 🏪 `store_dim.csv`: Granular 3-tier geographic store network hierarchy (`division` → `district` → `upazila`)
+  - 📅 `time_dim.csv`: Complete temporal dimension (`date`, `hour`, `day`, `week`, `month`, `quarter`, `year`)
+  - 💳 `Trans_dim.csv`: Multi-channel payment dimension (`trans_type` — cash, card, mobile banking & banking institutions)
+- 🧮 **Advanced DAX Metrics & Dynamic KPI Formatting**:
+  - Core performance indicators: `TOTAL SALES`, `TOTAL QUANTITY`, `AVG UNIT PRICE`, `CUSTOMERS`
+  - Customer retention & cohort analytics: `ACTIVE CUSTOMERS`, `RETURNING CUSTOMERS %`, `MONTHLY NEW CUSTOMERS`, `Order_Bucket`
+  - Dynamic Year-over-Year (YoY) analysis: `% YOY TOTAL SALES`, `% YOY QTY`, `% YOY CUSTOMERS`, `% YOY AVG UNIT PRICE`
+  - Conditional DAX color indicators: Dynamic green/red indicator measures (`YOY TOTAL SALES COLOR`, `YOY QTY COLOR`, etc.) for instant executive visual feedback
+- 📑 **2 High-Impact Interactive Report Pages**:
+  1. 📅 **Year Wise Analysis**: Executive YoY KPI cards, annual & monthly revenue trends, seasonal order columns, geographic store division maps, and product category distribution donut visuals
+  2. 👥 **Customer & Order Insight**: Customer distribution by order frequency (pie chart), yearly quantity trend (funnel chart), top products & sales matrix, monthly customer & quantity growth (line chart), and store location revenue distribution (ribbon chart)
+- 🎨 **Modern UI/UX & Interactive Navigation**:
+  - Custom-crafted 16:9 widescreen canvas layout template (`template.png`)
+  - Interactive animated collapsible Navigation Bar (`Navbar open` / `Navbar close`) powered by Power BI Bookmarks and Selection Pane actions
+  - Dynamic multi-select slicers for time periods, store divisions, and payment channels
+
+```bash
+cd "6 Power BI Prodigy/Project 2"
+# Open Ecommerce_Dashboard.pbix in Microsoft Power BI Desktop
 ```
 
 ---
