@@ -1,0 +1,55 @@
+Model,Year,Region,Color,Fuel Type,Base Price (USD),Horsepower,Sales Volume,Turbo (Yes/No)
+Urus,2020,EMEA,Black,Gasoline,230000,641,4500,Yes
+Urus,2020,Americas,White,Gasoline,240000,641,4800,Yes
+Urus,2020,APAC,Red,Gasoline,235000,641,2700,Yes
+Huracán,2020,EMEA,Yellow,Gasoline,260000,631,2500,Yes
+Huracán,2020,Americas,Orange,Gasoline,270000,631,2600,Yes
+Huracán,2020,APAC,Black,Gasoline,265000,631,1500,Yes
+Aventador,2020,EMEA,Black,Gasoline,550000,769,600,Yes
+Aventador,2020,Americas,White,Gasoline,560000,769,650,Yes
+Aventador,2020,APAC,Red,Gasoline,555000,769,400,Yes
+Urus,2021,EMEA,Silver,Gasoline,235000,641,5021,Yes
+Urus,2021,Americas,Black,Gasoline,245000,641,5200,Yes
+Urus,2021,APAC,White,Gasoline,240000,641,2780,Yes
+Huracán,2021,EMEA,Yellow,Gasoline,265000,631,2586,Yes
+Huracán,2021,Americas,Orange,Gasoline,275000,631,2700,Yes
+Huracán,2021,APAC,Black,Gasoline,270000,631,1520,Yes
+Aventador,2021,EMEA,Black,Gasoline,560000,769,798,Yes
+Aventador,2021,Americas,White,Gasoline,570000,769,820,Yes
+Aventador,2021,APAC,Red,Gasoline,565000,769,500,Yes
+Urus,2022,EMEA,Black,Gasoline,240000,641,5367,Yes
+Urus,2022,Americas,White,Gasoline,250000,641,5550,Yes
+Urus,2022,APAC,Red,Gasoline,245000,641,3000,Yes
+Huracán,2022,EMEA,Yellow,Gasoline,270000,631,3113,Yes
+Huracán,2022,Americas,Orange,Gasoline,280000,631,3300,Yes
+Huracán,2022,APAC,Black,Gasoline,275000,631,1900,Yes
+Aventador,2022,EMEA,Black,Gasoline,570000,769,753,Yes
+Aventador,2022,Americas,White,Gasoline,580000,769,780,Yes
+Aventador,2022,APAC,Red,Gasoline,575000,769,480,Yes
+Urus,2023,EMEA,Black,Gasoline,250000,641,6087,Yes
+Urus,2023,Americas,White,Gasoline,260000,641,6200,Yes
+Urus,2023,APAC,Red,Gasoline,255000,641,3100,Yes
+Huracán,2023,EMEA,Yellow,Gasoline,280000,631,3962,Yes
+Huracán,2023,Americas,Orange,Gasoline,290000,631,4000,Yes
+Huracán,2023,APAC,Black,Gasoline,285000,631,2300,Yes
+Aventador,2023,EMEA,Black,Gasoline,580000,769,63,Yes
+Aventador,2023,Americas,White,Gasoline,590000,769,63,Yes
+Aventador,2023,APAC,Red,Gasoline,585000,769,63,Yes
+Revuelto,2024,EMEA,Blue,Hybrid,500000,1001,1406,Yes
+Revuelto,2024,Americas,White,Hybrid,520000,1001,1500,Yes
+Revuelto,2024,APAC,Green,Hybrid,510000,1001,900,Yes
+Urus SE,2024,EMEA,Black,Hybrid,300000,641,5662,Yes
+Urus SE,2024,Americas,Silver,Hybrid,320000,641,5800,Yes
+Urus SE,2024,APAC,Red,Hybrid,310000,641,3150,Yes
+Huracán,2024,EMEA,Yellow,Gasoline,290000,631,3600,Yes
+Huracán,2024,Americas,Orange,Gasoline,300000,631,3700,Yes
+Huracán,2024,APAC,Black,Gasoline,295000,631,2200,Yes
+Revuelto,2025,EMEA,Red,Hybrid,550000,1001,1700,Yes
+Revuelto,2025,Americas,Blue,Hybrid,570000,1001,1800,Yes
+Revuelto,2025,APAC,Black,Hybrid,560000,1001,1650,Yes
+Urus SE,2025,EMEA,White,Hybrid,330000,641,4650,Yes
+Urus SE,2025,Americas,Black,Hybrid,340000,641,4800,Yes
+Urus SE,2025,APAC,Silver,Hybrid,335000,641,2750,Yes
+Huracán (Temerario),2025,EMEA,Grey,Hybrid,380000,850,1300,Yes
+Huracán (Temerario),2025,Americas,Orange,Hybrid,390000,850,1400,Yes
+Huracán (Temerario),2025,APAC,White,Hybrid,385000,850,1150,Yes
