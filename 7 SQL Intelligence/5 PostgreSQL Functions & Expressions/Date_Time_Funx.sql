@@ -1,3 +1,4 @@
+
 select current_date , now();
 
 select Extract(YEAR From now());	
