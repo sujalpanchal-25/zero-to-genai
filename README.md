@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Power+BI+Prodigy+100%25+Complete;Learning+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+with+GenAI;Python+Powerhouse+100%25+Complete;NumPy+Ninja+100%25+Complete;Pandas+Playground+100%25+Complete;Visual+Intelligence+100%25+Complete;Excel+Intelligence+100%25+Complete;Power+BI+Prodigy+100%25+Complete;SQL+Intelligence+20%25+Complete;Learning+in+Public" alt="Typing SVG" />
 
 <br/>
 
@@ -17,6 +17,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://microsoft.com/excel)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-6C63FF?style=for-the-badge&logo=gitbook&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
@@ -37,7 +38,7 @@
 |---|---|
 | **Repo Name** | `zero-to-genai` |
 | **Short Description** | 🧠 My hands-on journey through Data Science, Analytics & GenAI — Python exercises, projects & more. |
-| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `excel` `power-bi` `power-query` `dax` `data-modeling` `star-schema` `business-intelligence` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
+| **Topics / Tags** | `python` `data-science` `machine-learning` `generative-ai` `analytics` `excel` `power-bi` `power-query` `dax` `data-modeling` `star-schema` `business-intelligence` `sql` `postgresql` `relational-databases` `database-design` `etl` `numpy` `pandas` `matplotlib` `seaborn` `visualization` `oop` `learning-in-public` |
 
 ---
 
@@ -110,7 +111,7 @@
 │   └── 🛒 Project3 (Extra)/                      ← Excel Capstone Project 3
 │       └── 📁 Sales Dashboard/                   ← Superstore Sales Analytics & Interactive Dashboard (.xlsx)
 │
-└── 🟡 6 Power BI Prodigy/                         ← Business Intelligence, Data Modeling & Interactive Dashboards (100% Complete)
+├── 🟡 6 Power BI Prodigy/                         ← Business Intelligence, Data Modeling & Interactive Dashboards (100% Complete)
     ├── 📥 Phase 2 (Data Acquisition & Preparation)/
     │   └── 📁 Class 1/                           ← Power Query ETL, Transformations & Multi-Source Consolidation
     │       ├── 📊 ETL Process.xlsx               ← Ingestion & Transformation Dataset
@@ -146,16 +147,61 @@
     │   │   └── 🛠️ Skills.csv                     ← In-Demand Tech & AI Skills Catalog
     │   └── 📊 Job_Market_Dashboard.pbix          ← 4-Page Interactive Job Market Analytics BI Dashboard (.pbix)
     │
-    └── 📁 Project 2/                             ← Global E-Commerce & Retail Sales Intelligence (100% Complete)
-        ├── 📁 Dataset/                           ← Enterprise Star Schema Data Warehouse (1M+ Records)
-        │   ├── 👤 customer_dim.csv               ← Customer Demographics & Identification
-        │   ├── 🛒 fact_table.csv                 ← 1,000,000+ Transactional Sales & Revenue Fact Records
-        │   ├── 📦 item_dim.csv                   ← Product Catalog, Unit Prices, Suppliers & Origins
-        │   ├── 🏪 store_dim.csv                  ← Store Geographic Hierarchy (Division, District, Upazila)
-        │   ├── 📅 time_dim.csv                   ← Temporal Hierarchy (Date, Hour, Day, Week, Month, Quarter, Year)
-        │   └── 💳 Trans_dim.csv                  ← Payment Channels (Card, Cash, Mobile Banking) & Banks
-        ├── 🖼️ template.png                       ← Custom 16:9 Canvas Layout Template
-        └── 📊 Ecommerce_Dashboard.pbix           ← 2-Page Executive E-Commerce BI Dashboard (17 MB .pbix)
+    ├── 📁 Project 2/                             ← Global E-Commerce & Retail Sales Intelligence (100% Complete)
+    │   ├── 📁 Dataset/                           ← Enterprise Star Schema Data Warehouse (1M+ Records)
+    │   │   ├── 👤 customer_dim.csv               ← Customer Demographics & Identification
+    │   │   ├── 🛒 fact_table.csv                 ← 1,000,000+ Transactional Sales & Revenue Fact Records
+    │   │   ├── 📦 item_dim.csv                   ← Product Catalog, Unit Prices, Suppliers & Origins
+    │   │   ├── 🏪 store_dim.csv                  ← Store Geographic Hierarchy (Division, District, Upazila)
+    │   │   ├── 📅 time_dim.csv                   ← Temporal Hierarchy (Date, Hour, Day, Week, Month, Quarter, Year)
+    │   │   └── 💳 Trans_dim.csv                  ← Payment Channels (Card, Cash, Mobile Banking) & Banks
+    │   ├── 🖼️ template.png                       ← Custom 16:9 Canvas Layout Template
+    │   └── 📊 Ecommerce_Dashboard.pbix           ← 2-Page Executive E-Commerce BI Dashboard (17 MB .pbix)
+    │
+    └── 🏎️ Project 3 (Extra)/                    ← Lamborghini Performance & Global Sales Intelligence (100% Complete)
+        ├── 📊 Dashboard.pbix                     ← Interactive Multi-Page Lamborghini BI Dashboard (.pbix)
+        ├── 🖼️ Home Canva Background.png          ← Custom Canva-Designed Home Screen Layout Canvas
+        ├── 🖼️ Sales Canva Background.png         ← Custom Canva-Designed Sales Analytics Canvas
+        └── 📁 Lamborgini Dataset/                ← Performance Specs & Sales Datasets
+            ├── 📄 lamborghini_sales_2020_2025.csv ← Multi-Year Global Sales Volumes, Regional Revenues & Pricing
+            ├── 📄 lamborghini-specifications-ready.csv ← Complete Technical Specs (Horsepower, Speed, Acceleration)
+            └── 📄 lamborghini_car_specifications_dataset.csv ← Powertrain & Engineering Attributes
+│
+└── 🗄️ 7 SQL Intelligence/                        ← Relational Database Engineering, PostgreSQL Analytics & Query Design (20% — In Progress)
+    ├── 🔍 3 PostgreSQL Logic & Clauses/          ← Core SQL Logic, Filtering & Sorting
+    │   └── 📜 Clauses.sql                        ← WHERE, ORDER BY, LIMIT, OFFSET, DISTINCT, BETWEEN, IN, ILIKE, GROUP BY, HAVING
+    │
+    ├── 🛠️ 4 Table Modification (ALTER)/          ← DDL Table Schema Alterations & Constraints
+    │   ├── 📜 Alter function.sql                 ← ADD/DROP Column, RENAME, TYPE changes, DEFAULT values, UNIQUE constraints
+    │   └── 📜 Alter_Function_2.sql               ← Schema Evolution, Phone Constraints & Active Status Updates
+    │
+    ├── ⚡ 5 PostgreSQL Functions & Expressions/   ← Built-in PostgreSQL Computational Engines
+    │   ├── 📊 Aggregation_Funx.sql               ← SUM, AVG, ROUND, COUNT, MIN, MAX calculations
+    │   ├── 🔀 Case_Funx.sql                      ← Conditional CASE WHEN expressions & dynamic category labeling
+    │   ├── 📅 Date_Time_Funx.sql                 ← CURRENT_DATE, NOW, EXTRACT (Year, Month, Week, Day, Hour, Quarter), AGE, DATE_TRUNC
+    │   ├── 🧮 MATH_fux.sql                       ← ABS, CEIL, FLOOR, ROUND, TRUNC, POWER, SQRT, MOD operations
+    │   └── 🔤 String_fux.sql                     ← LOWER, UPPER, LENGTH, SUBSTRING, LEFT, RIGHT, CONCAT, CONCAT_WS, REPLACE
+    │
+    ├── 🏋️ 6 Practice/                            ← Comprehensive PostgreSQL Hands-on Query Suite (12+ Topic Files)
+    │   ├── 📜 1_Basic_Filtering.sql              ← Boolean condition filtering & range checks
+    │   ├── 📜 2_Sorting_+_Pagination.sql         ← High-performance ordering & offset pagination
+    │   ├── 📜 3_ DISTINCT_BETWEEN_IN.sql         ← Discrete value filtering & interval selection
+    │   ├── 📜 5_GROUPBY_+_Aggregation.sql        ← Category grouping & aggregate metrics
+    │   ├── 📜 6_ILIKE.sql                        ← Case-insensitive pattern matching & regular string search
+    │   ├── 📜 7_CASE.sql                         ← Segment classification & conditional binning
+    │   ├── 📜 8_ALTER_TABLE.sql                  ← Table structure alteration exercises
+    │   ├── 📜 9_update_Funx.sql                  ← Data manipulation & column value updates
+    │   ├── 📜 10_String_funx.sql                 ← Advanced string slicing & normalization
+    │   ├── 📜 11_MATH_Funx.sql                   ← Mathematical functions & numeric conversions
+    │   ├── 📜 12_Date_timw_funx.sql              ← Date math, timestamp parsing & interval extraction
+    │   ├── 📜 13_Real_data_analysis_questions.sql← 15+ Real-world business data analysis scenarios & queries
+    │   ├── 🗃️ Practice.sql                       ← Full PostgreSQL Database Setup Script (20-record sample & queries)
+    │   └── 📕 Practice_Questions.pdf             ← Structured SQL Challenge & Question Bank Guide
+    │
+    └── 🔗 7 Table Relationships & keys/          ← Relational Database Design, Normalization & Joins
+        ├── 📜 1_implement_of_Relationships.sql   ← Entity schema design (customers, products, locations) with PRIMARY KEYs & data seeds
+        ├── 📜 2_implement_of_Relationships.sql   ← Fact table design (sales) with FOREIGN KEY constraints, CHECK constraints & transactions
+        └── 📜 3_Relationship_types.sql           ← Multi-table INNER JOIN queries, table aliases, entity bridges & multi-level aggregations
 ```
 
 ---
@@ -253,12 +299,44 @@
   - Dynamic Year-over-Year (YoY) metrics with conditional formatting rules (`% YOY TOTAL SALES`, `% YOY QTY`, `% YOY CUSTOMERS`, `% YOY AVG UNIT PRICE`)
   - 2-page production-grade BI report (`Ecommerce_Dashboard.pbix`): *Year Wise Analysis* & *Customer & Order Insight*
   - Modern UI/UX architecture: Custom 16:9 canvas layout (`template.png`) and collapsible animated Navigation Bar powered by Power BI Bookmarks & Selection Pane
+- ✅ **Project 3 (Extra): Lamborghini Performance & Global Sales Intelligence (100% Complete)**:
+  - Multi-dataset technical analysis (`lamborghini_sales_2020_2025.csv`, `lamborghini-specifications-ready.csv`, `lamborghini_car_specifications_dataset.csv`)
+  - Integration of car engineering specs (Horsepower, Top Speed, 0-100 km/h Acceleration, Torque, Naturally Aspirated vs. Turbo)
+  - Global commercial sales performance tracking across EMEA, Americas, and APAC markets
+  - Custom UI/UX design with dedicated Canva background canvases (`Home Canva Background.png`, `Sales Canva Background.png`)
+  - Interactive multi-page report in `Dashboard.pbix` with dynamic slicers, vehicle matrices, and executive KPI scorecards
 
   </td>
   <td valign="top" width="50%">
 
+### 🗄️ SQL Intelligence — 🔄 In Progress (20%)
+
+- 🔄 **PostgreSQL Logic, Filtering & Query Clauses (`Clauses.sql`)**:
+  - Advanced record filtering with `WHERE`, comparison operators, and logical combinations (`AND`, `OR`, `NOT`)
+  - Sorting & Pagination: `ORDER BY` (ASC/DESC), multi-column ordering, `LIMIT`, and `OFFSET`
+  - Pattern matching & membership: `DISTINCT`, `BETWEEN ... AND ...`, `IN (...)`, `LIKE`, and case-insensitive `ILIKE`
+  - Grouping & aggregations: `GROUP BY`, `HAVING` clause filtering on aggregate results, and explicit type casting (`::text`)
+- 🔄 **Table Modification & Schema Management (`ALTER TABLE`)**:
+  - DDL schema modifications: `ADD COLUMN`, `DROP COLUMN`, `RENAME COLUMN`
+  - Column data type alterations (`TYPE int`, `varchar`), setting & dropping default values (`SET DEFAULT`, `DROP DEFAULT`)
+  - Integrity constraints: `ADD CONSTRAINT UNIQUE`, `DROP CONSTRAINT`, `NOT NULL` enforcement
+- 🔄 **PostgreSQL Built-in Functions & Expressions**:
+  - **Aggregation Functions**: `SUM()`, `AVG()`, `ROUND(..., 2)`, `COUNT()`, `MIN()`, `MAX()`
+  - **Conditional Logic**: `CASE WHEN ... THEN ... ELSE ... END` expressions (e.g., dynamic Age Group categorization)
+  - **Date & Time Functions**: `CURRENT_DATE`, `NOW()`, `EXTRACT(YEAR/MONTH/WEEK/DAY/HOUR/QUARTER FROM ...)`, `AGE()`, `DATE_TRUNC()`
+  - **Mathematical Functions**: `ABS()`, `CEIL()`, `FLOOR()`, `ROUND()`, `TRUNC()`, `POWER()`, `SQRT()`, `MOD()`
+  - **String Manipulation Functions**: `LOWER()`, `UPPER()`, `LENGTH()`, `SUBSTRING()`, `LEFT()`, `RIGHT()`, `CONCAT()`, `CONCAT_WS()`, `REPLACE()`
+- 🔄 **Hands-on Query Practice Suite (12+ Topic Scripts + Question Bank)**:
+  - Structured practice across basic filtering, pagination, distinct values, group by, ILIKE, case statements, table alterations, and update expressions
+  - `13_Real_data_analysis_questions.sql`: Solving 15+ real-world analytical business questions (customer segmentation, cohort metrics, temporal signups, multi-condition filters)
+  - `Practice.sql`: Self-contained database initialization script seeding a 20-customer database with complete demographic and temporal tracking
+  - `Practice_Questions.pdf`: Comprehensive question reference bank for real-world SQL interview & problem-solving practice
+- 🔄 **Relational Database Design, Keys & Multi-Table Joins**:
+  - Dimension & Fact Architecture: Modeling `customers`, `products`, `locations`, and `sales` tables
+  - Key Constraints & Data Integrity: `SERIAL PRIMARY KEY`, `FOREIGN KEY ... REFERENCES`, `CHECK (quantity > 0)`, `UNIQUE`, `NOT NULL`
+  - Multi-Table Joins: `INNER JOIN` queries joining fact and dimension tables, alias conventions (`c`, `s`, `p`), multi-level aggregations (`SUM(quantity)` grouped by customer and product)
+
 ### 🤖 Upcoming Modules
-- ⏳ SQL Intelligence
 - ⏳ Machine Learning Unleashed
 - ⏳ Deep Learning Demystified
 - ⏳ Generative AI Revolution
@@ -282,7 +360,7 @@
 | 📊 **Visual Intelligence: Data Visualization** | `████████████████████` 100% | ✅ Completed |
 | 📑 **Excel Intelligence** | `████████████████████` 100% | ✅ Completed |
 | 🟡 **Power BI Prodigy** | `████████████████████` 100% | ✅ Completed |
-| 🗄️ **SQL Intelligence** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
+| 🗄️ **SQL Intelligence** | `████░░░░░░░░░░░░░░░░` 20% | 🔄 In Progress |
 | 🤖 **Machine Learning Unleashed** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🧠 **Deep Learning Demystified** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
 | 🧬 **Generative AI Revolution** | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Upcoming |
@@ -562,6 +640,64 @@ cd "6 Power BI Prodigy/Project 2"
 
 ---
 
+### 🏎️ Lamborghini Performance & Global Sales Intelligence — Power BI Capstone Project 3 (Extra)
+
+> An executive Business Intelligence solution combining multi-decade vehicle engineering specifications with 2020–2025 global commercial sales records — presented via custom Canva UI canvas themes across interactive report pages in `Dashboard.pbix`.
+
+**Features:**
+- 🏎️ **Comprehensive Supercar Dataset Integration**:
+  - `lamborghini_sales_2020_2025.csv`: Multi-year global deliveries tracking sales volume, base price, horsepower, region (`EMEA`, `Americas`, `APAC`), color palettes, fuel type, and turbo induction
+  - `lamborghini-specifications-ready.csv` & `lamborghini_car_specifications_dataset.csv`: Engineering benchmarks across historical and modern line-ups (Aventador, Huracán, Urus, Revuelto, Countach, Diablo, Miura)
+- 📊 **Engineering & Powertrain Benchmarking**: Tracking 0–100 km/h acceleration, top speed (km/h & mph), engine displacement, V8/V10/V12 cylinder configurations, naturally aspirated vs. turbo performance, and torque output
+- 🌍 **Global Commercial Sales Analytics**: Regional market distribution comparing EMEA, Americas, and APAC volume and revenue shares
+- 🎨 **Bespoke UI/UX Design with Canva Canvas Layouts**:
+  - `Home Canva Background.png`: High-impact landing page experience with stylized typography, brand aesthetic, and section navigation
+  - `Sales Canva Background.png`: Structured analytical canvas with dedicated visual containers for KPI cards, trend charts, and vehicle matrices
+- 📈 **Interactive Power BI Dashboard (`Dashboard.pbix`)**: Dynamic model slicers, price-to-performance scatter analytics, annual delivery breakdowns, and executive KPI scorecards
+
+```bash
+cd "6 Power BI Prodigy/Project 3 (Extra)"
+# Open Dashboard.pbix in Microsoft Power BI Desktop
+```
+
+---
+
+### 🗄️ PostgreSQL Database Engineering & Real-World Analytics — SQL Intelligence
+
+> An end-to-end relational database engineering and analytical querying module built in PostgreSQL — covering relational database architecture, primary & foreign keys, constraints, table alterations, built-in function engines, and real-world business analytics.
+
+**Features:**
+- 🏛️ **Normalized Relational Data Architecture (`7 Table Relationships & keys`)**:
+  - `customers`: Customer registry with unique emails, names, and contact channels
+  - `products`: Product catalog tracking categories and unit prices
+  - `locations`: Geographic store and customer location hierarchy (city, state, country)
+  - `sales`: Central transactional fact table maintaining relational links to customers, products, and locations
+- 🛡️ **Enterprise Constraints & Schema Management**:
+  - Automated `SERIAL PRIMARY KEY` identity generation
+  - Enforced `FOREIGN KEY ... REFERENCES` relational integrity across all dimensional links
+  - Business rule integrity with `CHECK (quantity > 0)`, `UNIQUE`, and `NOT NULL` constraints
+  - DDL evolution via `ALTER TABLE` (column additions, renames, type conversions, default value management)
+- 🔗 **Multi-Table Joins & Complex Aggregations**:
+  - `INNER JOIN` operations connecting transactional sales with customer and product dimensions
+  - Alias optimization (`c`, `s`, `p`) and multi-level grouped aggregations (`SUM(quantity)` by customer and product)
+- 🧮 **Comprehensive PostgreSQL Computational Functions**:
+  - Aggregations: `SUM`, `AVG`, `ROUND(..., 2)`, `COUNT`, `MIN`, `MAX`
+  - Conditional Binning: `CASE WHEN ... THEN ... ELSE ... END` classifying customers into demographic cohorts (`Teen`, `Young`, `Adolescent`, `Old`)
+  - Temporal Intelligence: `CURRENT_DATE`, `NOW()`, `EXTRACT` (year, month, week, day, hour, quarter), `AGE()`, and `DATE_TRUNC()`
+  - Math & String Mechanics: `ABS`, `CEIL`, `FLOOR`, `POWER`, `SQRT`, `MOD`, `CONCAT_WS`, `SUBSTRING`, `ILIKE` pattern matching
+- 🎯 **15+ Real-World Analytical Business Queries (`6 Practice`)**:
+  - Customer segmentation, cohort counts, year-over-year signup velocity, and top spender identification
+  - Complete runnable bootstrap database in `Practice.sql` seeding a 20-record dataset for immediate querying
+  - Accompanied by structured challenge documentation in `Practice_Questions.pdf`
+
+```bash
+# Connect to PostgreSQL via psql or pgAdmin and run:
+cd "7 SQL Intelligence/6 Practice"
+psql -U postgres -d postgres -f Practice.sql
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -573,6 +709,7 @@ cd "6 Power BI Prodigy/Project 2"
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-UI%20Framework-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -601,7 +738,11 @@ source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install numpy pandas colorama nicegui matplotlib seaborn
 
 # 5. Run any exercise or project!
+# Python Project
 python "2 Numpy Ninja/Project/main.py"
+
+# Or execute SQL scripts in PostgreSQL / pgAdmin:
+# Open "7 SQL Intelligence/6 Practice/Practice.sql" in pgAdmin or run via psql
 ```
 
 ---
